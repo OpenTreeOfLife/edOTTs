@@ -1,0 +1,19 @@
+[
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520262,
+      "sourceinfo": "additions-6520262-6520262:6520262",
+      "name": "Alopochen mauritiana",
+      "parent": 860117,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "forward": {
+      "former": 6520263,
+      "redirect_to": 6520262
+    }
+  }
+]

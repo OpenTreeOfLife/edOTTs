@@ -1,0 +1,43 @@
+[
+  {
+    "action": "delete",
+    "synonym": {
+      "name": "Bucco noanamae",
+      "ott_id": 3600719,
+      "reason": "lumped"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 3600719,
+      "sourceinfo": "additions-6520264-6520323:6520296",
+      "name": "Bucco noanamae",
+      "parent": 483803,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "synonym": {
+      "name": "Nystactes",
+      "ott_id": 483803,
+      "sourceinfo": "gbif:2475109"
+    }
+  },
+  {
+    "action": "add",
+    "synonym": {
+      "name": "Nystactes noanamae",
+      "ott_id": 3600719,
+      "reason": "lumped"
+    }
+  },
+  {
+    "action": "add",
+    "forward": {
+      "former": 6520296,
+      "redirect_to": 3600719
+    }
+  }
+]

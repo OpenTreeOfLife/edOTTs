@@ -1,0 +1,19 @@
+[
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520258,
+      "sourceinfo": "additions-6520258-6520258:6520258",
+      "name": "Celeus ochraceus",
+      "parent": 724182,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "forward": {
+      "former": 6520293,
+      "redirect_to": 6520258
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "action": "delete",
+    "synonym": {
+      "name": "Poospiza nigrorufa",
+      "ott_id": 7060,
+      "reason": "erroneous synonym"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520323,
+      "sourceinfo": "additions-6520264-6520323:6520323",
+      "name": "Poospiza nigrorufa",
+      "parent": 605365,
+      "rank": "species"
+    }
+  }
+]

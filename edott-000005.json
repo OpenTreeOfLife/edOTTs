@@ -1,0 +1,19 @@
+[
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520247,
+      "sourceinfo": "additions-6520247-6520248:6520247",
+      "name": "Cirrhilabrus briangreenei",
+      "parent": 195610,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "forward": {
+      "former": 6520249,
+      "redirect_to": 6520247
+    }
+  }
+]
