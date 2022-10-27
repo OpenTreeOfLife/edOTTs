@@ -1,0 +1,32 @@
+[
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520429,
+      "sourceinfo": "additions-6520429-6520429:6520429",
+      "name": "Protoxotes lorentzi",
+      "parent": 1089728,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520430,
+      "sourceinfo": "additions-6520430-6520430:6520430",
+      "name": "Toxotes sundaicus",
+      "parent": 1089728,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520431,
+      "sourceinfo": "additions-6520431-6520431:6520431",
+      "name": "Macronyx capensis s.s.",
+      "parent": 165983,
+      "rank": "species"
+    }
+  }
+]
