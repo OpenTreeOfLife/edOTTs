@@ -2,8 +2,8 @@ edOTTs
 ======
 
 JSON edits usable as inputs to [otcetera](https://github.com/OpenTreeOfLife/otcetera)
-otc-taxonomy-patcher tool for editing the Open Tree of Life
-Taxonomy (ott).
+otc-taxonomy-patcher tool (currently on the taxonomy-diff-maker branch)
+for editing the Open Tree of Life Taxonomy (ott).
 
 Provenance will later be inlined. Currently:
 
