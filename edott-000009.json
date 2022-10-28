@@ -302,16 +302,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520362,
-      "sourceinfo": "additions-6520362-6520362:6520362",
-      "name": "Yungipicus nanus",
-      "parent": 4130763,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520363,
       "sourceinfo": "additions-6520363-6520363:6520363",
       "name": "Megascops roraimae",
