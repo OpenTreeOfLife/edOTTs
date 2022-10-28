@@ -82,16 +82,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520332,
-      "sourceinfo": "additions-6520326-6520333:6520332",
-      "name": "Polyascidae",
-      "parent": 363885,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520334,
       "sourceinfo": "additions-6520334-6520334:6520334",
       "name": "Peltogasterellidae",
@@ -135,16 +125,6 @@
       "ott_id": 6520338,
       "sourceinfo": "additions-6520338-6520338:6520338",
       "name": "Triangulidae",
-      "parent": 363885,
-      "rank": "family"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520340,
-      "sourceinfo": "additions-6520340-6520340:6520340",
-      "name": "Polyascidae",
       "parent": 363885,
       "rank": "family"
     }
@@ -1041,6 +1021,20 @@
     "forward": {
       "former": 6520339,
       "redirect_to": 6520334
+    }
+  },
+  {
+    "action": "add",
+    "forward": {
+      "former": 6520332,
+      "redirect_to": 6520335
+    }
+  },
+  {
+    "action": "add",
+    "forward": {
+      "former": 6520340,
+      "redirect_to": 6520335
     }
   }
 ]
