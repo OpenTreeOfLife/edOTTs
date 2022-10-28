@@ -62,16 +62,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520330,
-      "sourceinfo": "additions-6520326-6520333:6520330",
-      "name": "Pirusaccidae",
-      "parent": 363885,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520331,
       "sourceinfo": "additions-6520326-6520333:6520331",
       "name": "Petrarciae",
@@ -125,16 +115,6 @@
       "ott_id": 6520338,
       "sourceinfo": "additions-6520338-6520338:6520338",
       "name": "Triangulidae",
-      "parent": 363885,
-      "rank": "family"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520341,
-      "sourceinfo": "additions-6520341-6520341:6520341",
-      "name": "Pirusaccidae",
       "parent": 363885,
       "rank": "family"
     }
@@ -1035,6 +1015,20 @@
     "forward": {
       "former": 6520340,
       "redirect_to": 6520335
+    }
+  },
+  {
+    "action": "add",
+    "forward": {
+      "former": 6520330,
+      "redirect_to": 6520336
+    }
+  },
+  {
+    "action": "add",
+    "forward": {
+      "former": 6520341,
+      "redirect_to": 6520336
     }
   }
 ]
