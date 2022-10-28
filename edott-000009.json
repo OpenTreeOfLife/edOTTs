@@ -42,16 +42,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520328,
-      "sourceinfo": "additions-6520326-6520333:6520328",
-      "name": "Neolepadidae",
-      "parent": 363885,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520329,
       "sourceinfo": "additions-6520326-6520333:6520329",
       "name": "Elminidae",
@@ -1029,6 +1019,13 @@
     "forward": {
       "former": 6520341,
       "redirect_to": 6520336
+    }
+  },
+  {
+    "action": "add",
+    "forward": {
+      "former": 6520328,
+      "redirect_to": 6520337
     }
   }
 ]
