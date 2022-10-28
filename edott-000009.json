@@ -92,16 +92,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520333,
-      "sourceinfo": "additions-6520326-6520333:6520333",
-      "name": "Peltogasterellidae",
-      "parent": 363885,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520334,
       "sourceinfo": "additions-6520334-6520334:6520334",
       "name": "Peltogasterellidae",
@@ -145,16 +135,6 @@
       "ott_id": 6520338,
       "sourceinfo": "additions-6520338-6520338:6520338",
       "name": "Triangulidae",
-      "parent": 363885,
-      "rank": "family"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520339,
-      "sourceinfo": "additions-6520339-6520339:6520339",
-      "name": "Peltogasterellidae",
       "parent": 363885,
       "rank": "family"
     }
@@ -1047,6 +1027,20 @@
       "name": "Rhopospina",
       "parent": 445866,
       "rank": "genus"
+    }
+  },
+  {
+    "action": "add",
+    "forward": {
+      "former": 6520333,
+      "redirect_to": 6520334
+    }
+  },
+  {
+    "action": "add",
+    "forward": {
+      "former": 6520339,
+      "redirect_to": 6520334
     }
   }
 ]
