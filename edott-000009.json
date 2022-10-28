@@ -102,16 +102,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520338,
-      "sourceinfo": "additions-6520338-6520338:6520338",
-      "name": "Triangulidae",
-      "parent": 363885,
-      "rank": "family"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520342,
       "sourceinfo": "additions-6520342-6520342:6520342",
       "name": "Megascops roraimae",
@@ -1026,6 +1016,13 @@
     "forward": {
       "former": 6520328,
       "redirect_to": 6520337
+    }
+  },
+  {
+    "action": "add",
+    "forward": {
+      "former": 6520338,
+      "redirect_to": 6520326
     }
   }
 ]
