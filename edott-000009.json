@@ -302,16 +302,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520363,
-      "sourceinfo": "additions-6520363-6520363:6520363",
-      "name": "Megascops roraimae",
-      "parent": 181710,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520364,
       "sourceinfo": "additions-6520364-6520364:6520364",
       "name": "Taenioptynx",
@@ -1013,6 +1003,20 @@
     "forward": {
       "former": 6520338,
       "redirect_to": 6520326
+    }
+  },
+  {
+    "action": "add",
+    "forward": {
+      "former": 6520362,
+      "redirect_to": 6520343
+    }
+  },
+  {
+    "action": "add",
+    "forward": {
+      "former": 6520363,
+      "redirect_to": 6520342
     }
   }
 ]
