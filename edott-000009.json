@@ -1018,5 +1018,75 @@
       "former": 6520363,
       "redirect_to": 6520342
     }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6520326,
+      "flags": "barren"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6520334,
+      "flags": "barren"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6520335,
+      "flags": "barren"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6520336,
+      "flags": "barren"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6520337,
+      "flags": "barren"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6520364,
+      "flags": "barren"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6520423,
+      "flags": "barren"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6520425,
+      "flags": "barren"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6520426,
+      "flags": "barren"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6520428,
+      "flags": "barren"
+    }
   }
 ]
