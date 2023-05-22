@@ -27,3 +27,13 @@ in `edott-000003.json`, but they required some hand editing.
 
   5. `edott-000008.json` - *Poospiza nigrorufa* is not an synonym of *Sporophila nigrorufa*
 
+  6. `edott-000009.json` No hand edits recorded
+
+  7. `edott-000010.json` No hand edits recorded
+
+
+More automatic updates:
+
+  1. `edott-000011.json` amendment-1 sha = [5f4764d6f0f4b2908465100fae724640b6306153](https://github.com/OpenTreeOfLife/amendments-1/commit/5bff4bc32a91a7c6e0541d94b71a0a9ae2fdda02)
+
+
