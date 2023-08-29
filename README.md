@@ -34,6 +34,6 @@ in `edott-000003.json`, but they required some hand editing.
 
 More automatic updates:
 
-  1. `edott-000011.json` amendment-1 sha = [5f4764d6f0f4b2908465100fae724640b6306153](https://github.com/OpenTreeOfLife/amendments-1/commit/5bff4bc32a91a7c6e0541d94b71a0a9ae2fdda02)
+  1. `edott-000011.json` amendment-1 sha = [5f4764d6f0f4b2908465100fae724640b6306153](https://github.com/OpenTreeOfLife/amendments-1/commit/5f4764d6f0f4b2908465100fae724640b6306153)
 
 
