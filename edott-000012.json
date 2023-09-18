@@ -592,16 +592,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520447,
-      "sourceinfo": "additions-6520447-6520466:6520447",
-      "name": "Dicrurus ludwigii ludwigii",
-      "parent": 207205,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520448,
       "sourceinfo": "additions-6520447-6520466:6520448",
       "name": "Eremalauda dunni dunni",
