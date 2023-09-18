@@ -232,16 +232,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520496,
-      "sourceinfo": "additions-6520492-6520499:6520496",
-      "name": "Gypsophila calcicola",
-      "parent": 6520423,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520497,
       "sourceinfo": "additions-6520492-6520499:6520497",
       "name": "Gypsophila annamensis",
@@ -606,16 +596,6 @@
       "sourceinfo": "additions-6520490-6520490:6520490",
       "name": "Oncostoma olivaceum",
       "parent": 187304,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520496,
-      "sourceinfo": "additions-6520492-6520499:6520496",
-      "name": "Gypsophila calcicola",
-      "parent": 6520423,
       "rank": "species"
     }
   },
@@ -1096,16 +1076,6 @@
       "sourceinfo": "additions-6520490-6520490:6520490",
       "name": "Oncostoma olivaceum",
       "parent": 187304,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520496,
-      "sourceinfo": "additions-6520492-6520499:6520496",
-      "name": "Gypsophila calcicola",
-      "parent": 6520423,
       "rank": "species"
     }
   },
