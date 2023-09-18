@@ -232,16 +232,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520493,
-      "sourceinfo": "additions-6520492-6520499:6520493",
-      "name": "Glaucestrilda caerulescens",
-      "parent": 6520426,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520494,
       "sourceinfo": "additions-6520492-6520499:6520494",
       "name": "Mayrimunia tristissima",
@@ -626,16 +616,6 @@
       "sourceinfo": "additions-6520490-6520490:6520490",
       "name": "Oncostoma olivaceum",
       "parent": 187304,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520493,
-      "sourceinfo": "additions-6520492-6520499:6520493",
-      "name": "Glaucestrilda caerulescens",
-      "parent": 6520426,
       "rank": "species"
     }
   },
@@ -1136,16 +1116,6 @@
       "sourceinfo": "additions-6520490-6520490:6520490",
       "name": "Oncostoma olivaceum",
       "parent": 187304,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520493,
-      "sourceinfo": "additions-6520492-6520499:6520493",
-      "name": "Glaucestrilda caerulescens",
-      "parent": 6520426,
       "rank": "species"
     }
   },
