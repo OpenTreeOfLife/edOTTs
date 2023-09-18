@@ -232,26 +232,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520487,
-      "sourceinfo": "additions-6520482-6520488:6520487",
-      "name": "Ducula spilorrhoa",
-      "parent": 300042,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520488,
-      "sourceinfo": "additions-6520482-6520488:6520488",
-      "name": "Bubo milesi",
-      "parent": 402451,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520479,
       "sourceinfo": "additions-6520479-6520479:6520479",
       "name": "Ptilinopus alligator",
@@ -626,26 +606,6 @@
       "sourceinfo": "additions-6520467-6520476:6520476",
       "name": "Dicrurus adsimilis adsimilis",
       "parent": 263357,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520487,
-      "sourceinfo": "additions-6520482-6520488:6520487",
-      "name": "Ducula spilorrhoa",
-      "parent": 300042,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520488,
-      "sourceinfo": "additions-6520482-6520488:6520488",
-      "name": "Bubo milesi",
-      "parent": 402451,
       "rank": "species"
     }
   },
