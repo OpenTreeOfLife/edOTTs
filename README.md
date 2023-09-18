@@ -36,4 +36,5 @@ More automatic updates:
 
   1. `edott-000011.json` amendment-1 sha = [5f4764d6f0f4b2908465100fae724640b6306153](https://github.com/OpenTreeOfLife/amendments-1/commit/5f4764d6f0f4b2908465100fae724640b6306153)
 
+  2. `semanticize_amendments.py amendments-1 5f4764d6f0f4b2908465100fae724640b6306153 > edott-000012.json` while amendments-1 was at [2faeefa1549ad7c231533528d1ec1dc1420060bd](https://github.com/OpenTreeOfLife/amendments-1/commit/2faeefa1549ad7c231533528d1ec1dc1420060bd)
 
