@@ -242,16 +242,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520477,
-      "sourceinfo": "additions-6520477-6520477:6520477",
-      "name": "Laniarius ferrugineus ferrugineus",
-      "parent": 92681,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520480,
       "sourceinfo": "additions-6520480-6520480:6520480",
       "name": "Ducula subflavescens",
@@ -616,16 +606,6 @@
       "sourceinfo": "additions-6520479-6520479:6520479",
       "name": "Ptilinopus alligator",
       "parent": 28961,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520477,
-      "sourceinfo": "additions-6520477-6520477:6520477",
-      "name": "Laniarius ferrugineus ferrugineus",
-      "parent": 92681,
       "rank": "species"
     }
   },
