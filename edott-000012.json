@@ -232,16 +232,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520499,
-      "sourceinfo": "additions-6520492-6520499:6520499",
-      "name": "Taenioptynx sylvaticus",
-      "parent": 6520364,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520482,
       "sourceinfo": "additions-6520482-6520488:6520482",
       "name": "Macronyx capensis",
@@ -576,16 +566,6 @@
       "sourceinfo": "additions-6520490-6520490:6520490",
       "name": "Oncostoma olivaceum",
       "parent": 187304,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520499,
-      "sourceinfo": "additions-6520492-6520499:6520499",
-      "name": "Taenioptynx sylvaticus",
-      "parent": 6520364,
       "rank": "species"
     }
   },
@@ -1036,16 +1016,6 @@
       "sourceinfo": "additions-6520490-6520490:6520490",
       "name": "Oncostoma olivaceum",
       "parent": 187304,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520499,
-      "sourceinfo": "additions-6520492-6520499:6520499",
-      "name": "Taenioptynx sylvaticus",
-      "parent": 6520364,
       "rank": "species"
     }
   },
