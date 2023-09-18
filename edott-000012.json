@@ -232,16 +232,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520486,
-      "sourceinfo": "additions-6520482-6520488:6520486",
-      "name": "Microcarbo coronatus",
-      "parent": 3600669,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520487,
       "sourceinfo": "additions-6520482-6520488:6520487",
       "name": "Ducula spilorrhoa",
@@ -636,16 +626,6 @@
       "sourceinfo": "additions-6520467-6520476:6520476",
       "name": "Dicrurus adsimilis adsimilis",
       "parent": 263357,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520486,
-      "sourceinfo": "additions-6520482-6520488:6520486",
-      "name": "Microcarbo coronatus",
-      "parent": 3600669,
       "rank": "species"
     }
   },
