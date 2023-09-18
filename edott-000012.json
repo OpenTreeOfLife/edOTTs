@@ -242,26 +242,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520480,
-      "sourceinfo": "additions-6520480-6520480:6520480",
-      "name": "Ducula subflavescens",
-      "parent": 300042,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520481,
-      "sourceinfo": "additions-6520481-6520481:6520481",
-      "name": "Thaumasotcheles massonktenos",
-      "parent": 115859,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520447,
       "sourceinfo": "additions-6520447-6520466:6520447",
       "name": "Dicrurus ludwigii ludwigii",
@@ -606,26 +586,6 @@
       "sourceinfo": "additions-6520479-6520479:6520479",
       "name": "Ptilinopus alligator",
       "parent": 28961,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520480,
-      "sourceinfo": "additions-6520480-6520480:6520480",
-      "name": "Ducula subflavescens",
-      "parent": 300042,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520481,
-      "sourceinfo": "additions-6520481-6520481:6520481",
-      "name": "Thaumasotcheles massonktenos",
-      "parent": 115859,
       "rank": "species"
     }
   },
