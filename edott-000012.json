@@ -232,16 +232,6 @@
   {
     "action": "add",
     "taxon": {
-      "ott_id": 6520498,
-      "sourceinfo": "additions-6520492-6520499:6520498",
-      "name": "Gypsophila crassa",
-      "parent": 6520423,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "ott_id": 6520499,
       "sourceinfo": "additions-6520492-6520499:6520499",
       "name": "Taenioptynx sylvaticus",
@@ -586,16 +576,6 @@
       "sourceinfo": "additions-6520490-6520490:6520490",
       "name": "Oncostoma olivaceum",
       "parent": 187304,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520498,
-      "sourceinfo": "additions-6520492-6520499:6520498",
-      "name": "Gypsophila crassa",
-      "parent": 6520423,
       "rank": "species"
     }
   },
@@ -1056,16 +1036,6 @@
       "sourceinfo": "additions-6520490-6520490:6520490",
       "name": "Oncostoma olivaceum",
       "parent": 187304,
-      "rank": "species"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "ott_id": 6520498,
-      "sourceinfo": "additions-6520492-6520499:6520498",
-      "name": "Gypsophila crassa",
-      "parent": 6520423,
       "rank": "species"
     }
   },
