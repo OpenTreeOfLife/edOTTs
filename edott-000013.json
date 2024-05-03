@@ -20,4 +20,32 @@
       "flags": "extinct"
     }
   },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 773491,
+      "flags": ""
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 773490,
+      "flags": "incertae_sedis"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 773497,
+      "flags": "incertae_sedis"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 773493,
+      "flags": "incertae_sedis,sibling_higher"
+    }
+  }
 ]
