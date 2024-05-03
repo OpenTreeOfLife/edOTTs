@@ -47,5 +47,19 @@
       "ott_id": 773493,
       "flags": "incertae_sedis,sibling_higher"
     }
-  } 
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7661605,
+      "parent": 1082614,
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7661607,
+      "parent": 1082614,
+    }
+  }
 ]
