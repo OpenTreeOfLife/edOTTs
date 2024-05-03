@@ -1,0 +1,23 @@
+[ 
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7649476,
+      "flags": "extinct"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7649474,
+      "flags": "extinct"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7649479,
+      "flags": "extinct"
+    }
+  },
+]
