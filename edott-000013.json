@@ -61,5 +61,107 @@
       "ott_id": 7661607,
       "parent": 1082614
     }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 7659730
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 7660103
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 7663590
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 7659728
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7660104,
+      "ott_id_of_sr_syn": 89251
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7660105,
+      "ott_id_of_sr_syn": 89237
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7660106,
+      "ott_id_of_sr_syn": 7068342
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7663589,
+      "ott_id_of_sr_syn": 663338
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7659729,
+      "ott_id_of_sr_syn": 89234
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7659726,
+      "ott_id_of_sr_syn": 7068345
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7659727,
+      "ott_id_of_sr_syn": 6152465
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 4130979
+    }
+  },
+  {
+    "action": "add",
+    "synonym": {
+      "name": "Rectes",
+      "ott_id": 749721,
+      "sourceinfo": "gbif:4847840,irmng:1130464"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 99701,
+      "parent": 623671,
+      "flags": ""
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 5247663,
+      "parent": 99701
+    }
   }
 ]
