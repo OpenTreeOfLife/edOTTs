@@ -40,3 +40,7 @@ https://github.com/OpenTreeOfLife/feedback/issues/149
 ## *Chavia* is a jr. syn of *Indicoblemma*
   * sink 7688412 into 4696260
   * sink 4696261 into 4696257
+
+## Add 
+  * Added 6520514 through UI
+  * 125649 and 947318 parent set to 6520514
