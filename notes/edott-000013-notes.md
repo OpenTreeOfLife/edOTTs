@@ -18,3 +18,11 @@ https://github.com/OpenTreeOfLife/feedback/issues/149
  * delete 4140522 Potamogalidae
  * 3616708 remove barren, merged flags
  * 54168, 796652, 6143375, 6143558 -> parent should be 3616708
+
+## Add Ambulacraria
+  * Added 6520512 via UI
+  * make parents of 100746 and 451020 -> 6520512
+
+## Correct Acoelomorpha
+  * 543718 parent to 117569
+  * 283423 and 490210 parent to 543718

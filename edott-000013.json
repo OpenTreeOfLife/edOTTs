@@ -225,5 +225,28 @@
       "ott_id": 451020,
       "parent": 6520512
     }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 543718,
+      "parent": 117569,
+      "flags": "",
+      "sourceinfo": "ncbi:147099"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 283423,
+      "parent": 543718
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 490210,
+      "parent": 543718
+    }
   }
 ]
