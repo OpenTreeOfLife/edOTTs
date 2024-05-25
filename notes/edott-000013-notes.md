@@ -36,3 +36,7 @@ https://github.com/OpenTreeOfLife/feedback/issues/149
 
 ## *Anaua unica* is a jr. syn of *Uzakia unica*
   * sink 7682964 into 4696019
+
+## *Chavia* is a jr. syn of *Indicoblemma*
+  * sink 7688412 into 4696260
+  * sink 4696261 into 4696257
