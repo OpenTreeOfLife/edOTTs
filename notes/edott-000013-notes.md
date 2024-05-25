@@ -30,3 +30,6 @@ https://github.com/OpenTreeOfLife/feedback/issues/149
 ## Add Atlantogenata
   * Added 6520513 via UI
   * 746703 and 847764 parent to 543718
+
+## Hide Cephalaspidomorphi as extinct
+  * extinct flag added to 5292392

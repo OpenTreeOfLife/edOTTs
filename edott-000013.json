@@ -276,5 +276,19 @@
       "ott_id": 746703,
       "parent": 6520513
     }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 746703,
+      "parent": 6520513
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 5292392,
+      "flags": "extinct"
+    }
   }
 ]
