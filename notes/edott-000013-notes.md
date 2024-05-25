@@ -26,3 +26,7 @@ https://github.com/OpenTreeOfLife/feedback/issues/149
 ## Correct Acoelomorpha
   * 543718 parent to 117569
   * 283423 and 490210 parent to 543718
+
+## Add Atlantogenata
+  * Added 6520513 via UI
+  * 746703 and 847764 parent to 543718

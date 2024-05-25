@@ -248,5 +248,33 @@
       "ott_id": 490210,
       "parent": 543718
     }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 1044242,
+      "parent": 5257445
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 5257445,
+      "flags": ""
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 847764,
+      "parent": 6520513
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 746703,
+      "parent": 6520513
+    }
   }
 ]
