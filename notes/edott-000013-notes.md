@@ -44,3 +44,6 @@ https://github.com/OpenTreeOfLife/feedback/issues/149
 ## Add Olfactores
   * Added 6520514 through UI
   * 125649 and 947318 parent set to 6520514
+
+## Crenarchaeota should be called Thermoprotei 
+  * 

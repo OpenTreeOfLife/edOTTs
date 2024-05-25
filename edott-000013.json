@@ -325,5 +325,26 @@
       "ott_id": 125649,
       "parent": 6520514
     }
+  },
+  {
+    "action": "delete",
+    "synonym": {
+      "ott_id": 114216,
+      "name": "Thermoproteota"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 114216,
+      "name": "Thermoproteota"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 114216,
+      "name": "Crenarchaeota"
+    }
   }
 ]
