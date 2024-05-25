@@ -33,3 +33,6 @@ https://github.com/OpenTreeOfLife/feedback/issues/149
 
 ## Hide Cephalaspidomorphi as extinct
   * extinct flag added to 5292392
+
+## *Anaua unica* is a jr. syn of *Uzakia unica*
+  * sink 7682964 into 4696019
