@@ -46,4 +46,7 @@ https://github.com/OpenTreeOfLife/feedback/issues/149
   * 125649 and 947318 parent set to 6520514
 
 ## Crenarchaeota should be called Thermoprotei 
-  * 
+  * reversing name/synonym for 114216
+
+## Duplicate *Glomerella rufomaculans-vaccinii*
+  * sink 5709621 into 1085557
