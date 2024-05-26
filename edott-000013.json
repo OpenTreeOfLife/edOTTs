@@ -388,5 +388,18 @@
       "ott_id_to_be_jr_syn": 6520480,
       "ott_id_of_sr_syn": 6520344
     }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 4925576,
+      "parent": 202765
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 5247662
+    }
   }
 ]

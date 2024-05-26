@@ -61,3 +61,8 @@ https://github.com/OpenTreeOfLife/feedback/issues/221
 ## delete dubious tardigrade
 https://github.com/OpenTreeOfLife/feedback/issues/244
   * delete 2943026
+
+## get rid of Choanoflagellate Clade L
+https://github.com/OpenTreeOfLife/feedback/issues/252
+  * set parent of 4925576 to 202765
+  * delete 5247662
