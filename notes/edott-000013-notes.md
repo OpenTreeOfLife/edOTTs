@@ -74,3 +74,12 @@ https://github.com/OpenTreeOfLife/feedback/issues/293
 ## Saccharomycetales should be inside Saccharomycetes
 https://github.com/OpenTreeOfLife/feedback/issues/301
   4085960 parent set to 989999
+
+## Remove typo-induced name Megalopyge opercilaris
+https://github.com/OpenTreeOfLife/feedback/issues/313
+  * sink 3041117 into 23953
+
+## Remove typo-induced name Syntexix
+https://github.com/OpenTreeOfLife/feedback/issues/313
+  * sink 3244916 into 512896
+  * sink 3244917 into 893510
