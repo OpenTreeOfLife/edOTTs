@@ -57,4 +57,7 @@ https://github.com/OpenTreeOfLife/feedback/issues/149
 ## fix elephant issues 
 https://github.com/OpenTreeOfLife/feedback/issues/221
   * rename 3607197 to *Stegodon bombifrons*, set its parent to 3607228
-  
+
+## delete dubious tardigrade
+https://github.com/OpenTreeOfLife/feedback/issues/244
+  * delete 2943026

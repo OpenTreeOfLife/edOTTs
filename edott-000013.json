@@ -375,5 +375,11 @@
       "ott_id": 3607197,
       "name": "Elephas bombifrons"
     }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 2943026
+    }
   }
 ]
