@@ -80,6 +80,6 @@ https://github.com/OpenTreeOfLife/feedback/issues/313
   * sink 3041117 into 23953
 
 ## Remove typo-induced name Syntexix
-https://github.com/OpenTreeOfLife/feedback/issues/313
+https://github.com/OpenTreeOfLife/feedback/issues/318
   * sink 3244916 into 512896
   * sink 3244917 into 893510
