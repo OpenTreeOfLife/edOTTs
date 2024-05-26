@@ -50,3 +50,6 @@ https://github.com/OpenTreeOfLife/feedback/issues/149
 
 ## Duplicate *Glomerella rufomaculans-vaccinii*
   * sink 5709621 into 1085557
+
+## Duplicate *Phaeosphaeria sp. S-93-48*
+  * sink 882832 into 100025

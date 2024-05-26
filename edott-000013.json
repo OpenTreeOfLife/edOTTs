@@ -346,5 +346,19 @@
       "ott_id": 114216,
       "name": "Crenarchaeota"
     }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 5709621,
+      "ott_id_of_sr_syn": 1085557
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 882832,
+      "ott_id_of_sr_syn": 100025
+    }
   }
 ]
