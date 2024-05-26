@@ -66,3 +66,7 @@ https://github.com/OpenTreeOfLife/feedback/issues/244
 https://github.com/OpenTreeOfLife/feedback/issues/252
   * set parent of 4925576 to 202765
   * delete 5247662
+
+## delete bogus Freshwater Ichthyosporeans 2 and Marine... 1
+https://github.com/OpenTreeOfLife/feedback/issues/293
+  * delete 5251369 and 5251367

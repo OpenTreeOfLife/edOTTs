@@ -401,5 +401,17 @@
     "taxon": {
       "ott_id": 5247662
     }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 5251369
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 5251367
+    }
   }
 ]
