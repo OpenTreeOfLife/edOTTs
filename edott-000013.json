@@ -360,5 +360,20 @@
       "ott_id_to_be_jr_syn": 882832,
       "ott_id_of_sr_syn": 100025
     }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 3607197,
+      "name": "Stegodon bombifrons",
+      "parent": 3607228
+    }
+  },
+  {
+    "action": "add",
+    "synonym": {
+      "ott_id": 3607197,
+      "name": "Elephas bombifrons"
+    }
   }
 ]

@@ -53,3 +53,8 @@ https://github.com/OpenTreeOfLife/feedback/issues/149
 
 ## Duplicate *Phaeosphaeria sp. S-93-48*
   * sink 882832 into 100025
+
+## fix elephant issues 
+https://github.com/OpenTreeOfLife/feedback/issues/221
+  * rename 3607197 to *Stegodon bombifrons*, set its parent to 3607228
+  
