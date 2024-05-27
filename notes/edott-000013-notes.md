@@ -95,3 +95,7 @@ https://github.com/OpenTreeOfLife/feedback/issues/335
 
   * new Caenophidia 6520515 created with UI
   * set parent of 929128 and 471198 to 6520515
+
+## *Miliaria calandra* is jr syn of *Emberiza calandra*
+https://github.com/OpenTreeOfLife/feedback/issues/336
+  * synonym added.

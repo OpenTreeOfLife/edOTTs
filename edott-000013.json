@@ -625,5 +625,12 @@
       "ott_id": 5835347,
       "flags": "sibling_higher:incertae_sedis"
     }
+  },
+  {
+    "action": "add",
+    "synonym": {
+      "ott_id": 6520265,
+      "name": "Miliaria calandra"
+    }
   }
 ]
