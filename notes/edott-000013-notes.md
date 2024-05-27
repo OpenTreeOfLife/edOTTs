@@ -99,3 +99,8 @@ https://github.com/OpenTreeOfLife/feedback/issues/335
 ## *Miliaria calandra* is jr syn of *Emberiza calandra*
 https://github.com/OpenTreeOfLife/feedback/issues/336
   * synonym added.
+
+## fix kelp fish flags
+https://github.com/OpenTreeOfLife/feedback/issues/346
+
+  * removed erroneous extinct flags from 257317 and 257320
