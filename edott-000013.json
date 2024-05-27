@@ -714,5 +714,12 @@
     "taxon": {
       "ott_id": 696441
     }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 419478,
+      "name": "Centropogon australis"
+    }
   }
 ]

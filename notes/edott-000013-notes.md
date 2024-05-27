@@ -114,3 +114,10 @@ https://github.com/OpenTreeOfLife/feedback/issues/352
 ## extinct flag in coelacanth
 https://github.com/OpenTreeOfLife/feedback/issues/356
   * remove flags from 773491, 773490, 773497, 773493, 760169
+
+## delete Makaira coftata
+https://github.com/OpenTreeOfLife/feedback/issues/361
+  * delete 3638542 and 696441
+
+## remove author name
+  * edit name of 419478
