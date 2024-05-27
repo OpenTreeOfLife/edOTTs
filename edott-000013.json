@@ -1,4 +1,154 @@
-[ 
+[
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520500,
+      "sourceinfo": "additions-6520500-6520507:6520500",
+      "name": "Automeris banus argentifera",
+      "parent": 379406,
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520501,
+      "sourceinfo": "additions-6520500-6520507:6520501",
+      "name": "Automeris banus proxima",
+      "parent": 379406,
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520502,
+      "sourceinfo": "additions-6520500-6520507:6520502",
+      "name": "Automeris belti zaruma",
+      "parent": 379415,
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520504,
+      "sourceinfo": "additions-6520500-6520507:6520504",
+      "name": "Automeris cecrops pamina",
+      "parent": 182758,
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520505,
+      "sourceinfo": "additions-6520500-6520507:6520505",
+      "name": "Automeris denticulata",
+      "parent": 391857,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520506,
+      "sourceinfo": "additions-6520500-6520507:6520506",
+      "name": "Automeris amanda limpida",
+      "parent": 1014973,
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520507,
+      "sourceinfo": "additions-6520500-6520507:6520507",
+      "name": "Automeris vomona pichinchensis",
+      "parent": 3099643,
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520508,
+      "sourceinfo": "additions-6520508-6520508:6520508",
+      "name": "Alouatta nigerrima",
+      "parent": 489216,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520503,
+      "sourceinfo": "additions-6520500-6520507:6520503",
+      "name": "Automeris boudinotiana",
+      "parent": 391857,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520509,
+      "sourceinfo": "additions-6520501-6520501:6520509",
+      "name": "Haeromys pusillus",
+      "parent": 3610081,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520510,
+      "sourceinfo": "additions-6520502-6520502:6520510",
+      "name": "Grammomys dryas",
+      "parent": 170604,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520511,
+      "sourceinfo": "additions-6520511-6520511:6520511",
+      "name": "Millardia gleadowi",
+      "parent": 170602,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520512,
+      "sourceinfo": "additions-6520512-6520512:6520512",
+      "name": "Ambulacraria",
+      "parent": 147604,
+      "rank": "no rank"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520513,
+      "sourceinfo": "additions-6520513-6520513:6520513",
+      "name": "Atlantogenata",
+      "parent": 683263,
+      "rank": "no rank"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520514,
+      "sourceinfo": "additions-6520514-6520514:6520514",
+      "name": "Olfactores",
+      "parent": 125642,
+      "rank": "no rank"
+    }
+  },
   {
     "action": "edit",
     "taxon": {
@@ -174,6 +324,12 @@
   {
     "action": "delete",
     "taxon": {
+      "ott_id": 7654130
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
       "ott_id": 4140522
     }
   },
@@ -342,7 +498,7 @@
   },
   {
     "action": "add",
-    "taxon": {
+    "synonym": {
       "ott_id": 114216,
       "name": "Crenarchaeota"
     }
@@ -352,13 +508,6 @@
     "taxon": {
       "ott_id_to_be_jr_syn": 5709621,
       "ott_id_of_sr_syn": 1085557
-    }
-  },
-  {
-    "action": "sink",
-    "taxon": {
-      "ott_id_to_be_jr_syn": 882832,
-      "ott_id_of_sr_syn": 100025
     }
   },
   {
