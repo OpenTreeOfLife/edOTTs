@@ -83,3 +83,15 @@ https://github.com/OpenTreeOfLife/feedback/issues/313
 https://github.com/OpenTreeOfLife/feedback/issues/318
   * sink 3244916 into 512896
   * sink 3244917 into 893510
+
+## Use *Alethinophidia* in snakes
+https://github.com/OpenTreeOfLife/feedback/issues/334
+
+  * set parent of 591361 to 5835348
+  * remove `barren:inconsistent` flags from 5835348
+
+## Use Caenophidia in snakes
+https://github.com/OpenTreeOfLife/feedback/issues/335
+
+  * new Caenophidia 6520515 created with UI
+  * set parent of 929128 and 471198 to 6520515
