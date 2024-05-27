@@ -110,3 +110,7 @@ https://github.com/OpenTreeOfLife/feedback/issues/352
   * set 6024640 "Lasioseius chenpengi" and parent to 815409
   * delete 6024639 as a spelling error
   * set parent of 6024641 to 3539116
+
+## extinct flag in coelacanth
+https://github.com/OpenTreeOfLife/feedback/issues/356
+  * remove flags from 773491, 773490, 773497, 773493, 760169

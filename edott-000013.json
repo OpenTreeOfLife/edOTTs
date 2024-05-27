@@ -667,5 +667,52 @@
       "ott_id": 6024641,
       "parent": 3539116
     }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 773491,
+      "flags": ""
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 773490,
+      "flags": ""
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 773497,
+      "flags": ""
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 773493,
+      "flags": ""
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 760169,
+      "flags": ""
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 3638542
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 696441
+    }
   }
 ]
