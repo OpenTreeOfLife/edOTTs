@@ -104,3 +104,9 @@ https://github.com/OpenTreeOfLife/feedback/issues/336
 https://github.com/OpenTreeOfLife/feedback/issues/346
 
   * removed erroneous extinct flags from 257317 and 257320
+
+## mites erroneously put in botanical Heliconiaceae
+https://github.com/OpenTreeOfLife/feedback/issues/352
+  * set 6024640 "Lasioseius chenpengi" and parent to 815409
+  * delete 6024639 as a spelling error
+  * set parent of 6024641 to 3539116

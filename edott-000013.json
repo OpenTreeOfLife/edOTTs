@@ -632,5 +632,40 @@
       "ott_id": 6520265,
       "name": "Miliaria calandra"
     }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 257320,
+      "flags": ""
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 257317,
+      "flags": ""
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6024640,
+      "name": "Lasioseius chenpengi",
+      "parent": 815409
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 6024639
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6024641,
+      "parent": 3539116
+    }
   }
 ]
