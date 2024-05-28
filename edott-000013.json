@@ -867,5 +867,19 @@
       "parent": 5707985,
       "name": "Rubicundus rubicundus"
     }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 1020541,
+      "parent": 495342,
+      "name": "Aglais io"
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 1020540
+    }
   }
 ]

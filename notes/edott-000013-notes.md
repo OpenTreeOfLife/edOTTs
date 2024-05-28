@@ -136,3 +136,11 @@ https://github.com/OpenTreeOfLife/feedback/issues/414
 https://github.com/OpenTreeOfLife/feedback/issues/415
   * sink misspelled *Sisturus sp* into *Sistrurus*
   * delete Sisturus and Crotalidae
+
+## rename *Eptatretus rubicundus*
+https://github.com/OpenTreeOfLife/feedback/issues/447
+
+## *Inachis io* -> *Aglais io*
+https://github.com/OpenTreeOfLife/feedback/issues/457
+  * set name and parent of 1020541
+  * delete 1020540
