@@ -2239,5 +2239,12 @@
       "parent": 449867,
       "rank": "species"
     }
+  }, 
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 1050104,
+      "name": "Ficus variegata"
+    }
   }
 ]
