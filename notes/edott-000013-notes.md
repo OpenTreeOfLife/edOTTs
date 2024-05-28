@@ -185,3 +185,8 @@ https://github.com/OpenTreeOfLife/feedback/issues/510
   * set 2918280 parent 7948290 flags ""
   * 7948290 name "Cymatidae" flags ""
   * set 6293494 to parent 762723 name *Distorsio simillima*
+
+## delete some bad homonyms from SILVA
+https://github.com/OpenTreeOfLife/feedback/issues/517
+https://github.com/OpenTreeOfLife/feedback/issues/535
+  * delete 5251869, 5901391, 5256670, 5900566 and lots more
