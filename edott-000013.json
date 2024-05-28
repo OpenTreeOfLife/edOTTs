@@ -2292,5 +2292,43 @@
     "taxon": {
       "ott_id": 6021346
     }
+  }, 
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7973658,
+      "name": "Acanthocepola abbreviata",
+      "parent": 872895
+    }
+  }, 
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7973659,
+      "name": "Acanthocepola indica",
+      "parent": 872895
+    }
+  }, 
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7973661,
+      "name": "Acanthocepola limbata",
+      "parent": 872895
+    }
+  }, 
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7973660,
+      "name": "Acanthocepola krusensternii",
+      "parent": 872895
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 7973657
+    }
   }
 ]
