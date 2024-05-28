@@ -1367,5 +1367,40 @@
       "flags": "infraspecific",
       "rank": "subspecies"
     }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 455685,
+      "rank": "extinct"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 455687,
+      "rank": "extinct"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 455684,
+      "rank": "extinct_inherited"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 455686,
+      "rank": "extinct_inherited"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 543770,
+      "rank": "extinct_inherited"
+    }
   }
 ]
