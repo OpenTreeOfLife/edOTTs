@@ -160,4 +160,8 @@ https://github.com/OpenTreeOfLife/feedback/issues/449
 
 ## *Ranoidea aurea* -> *Litoria aurea*
 https://github.com/OpenTreeOfLife/feedback/issues/464
-  * sink 7666857 into 
+  * sink 7666857 into 414589
+
+## Archaeoprepona not extinct
+https://github.com/OpenTreeOfLife/feedback/issues/510
+  * reset flags for the genus and descendants

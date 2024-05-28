@@ -1168,5 +1168,197 @@
       "ott_id_to_be_jr_syn": 7666857,
       "ott_id_of_sr_syn": 414589
     }
+  }, 
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 858543,
+      "flags": "",
+      "rank": "genus"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 513668,
+      "flags": "",
+      "rank": "species"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 513674,
+      "flags": "",
+      "rank": "species"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 3103577,
+      "flags": "",
+      "rank": "species"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 4238259,
+      "flags": "",
+      "rank": "species"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 958968,
+      "flags": "",
+      "rank": "species"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 958970,
+      "flags": "",
+      "rank": "species"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 858539,
+      "flags": "",
+      "rank": "species"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 572875,
+      "flags": "",
+      "rank": "species"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 513666,
+      "flags": "infraspecific",
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 1000499,
+      "flags": "infraspecific",
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 4238260,
+      "flags": "infraspecific",
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 5028545,
+      "flags": "infraspecific",
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 691572,
+      "flags": "infraspecific",
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 513676,
+      "flags": "infraspecific",
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 4238264,
+      "flags": "infraspecific",
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 168621,
+      "flags": "infraspecific",
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 513678,
+      "flags": "infraspecific",
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 4238262,
+      "flags": "infraspecific",
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 4238261,
+      "flags": "infraspecific",
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 168623,
+      "flags": "infraspecific",
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 513680,
+      "flags": "infraspecific",
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 4238263,
+      "flags": "infraspecific",
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 933677,
+      "flags": "infraspecific",
+      "rank": "subspecies"
+    }
   }
 ]
