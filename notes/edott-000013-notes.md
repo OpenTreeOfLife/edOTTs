@@ -191,3 +191,7 @@ https://github.com/OpenTreeOfLife/feedback/issues/517
 https://github.com/OpenTreeOfLife/feedback/issues/535
   * delete 5251869, 5901391, 5256670, 5900566 and lots more
 
+## lost springtail
+https://github.com/OpenTreeOfLife/feedback/issues/526
+  * set 5008296 parent to 1053028
+  * sink 7677593 parent to 1053028
