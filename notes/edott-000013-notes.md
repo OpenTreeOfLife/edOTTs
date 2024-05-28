@@ -153,3 +153,11 @@ https://github.com/OpenTreeOfLife/feedback/issues/458
   * 276756 and 513668 no flag
   * 5839523, 5839524, 513666,  1000499, 4238260 and  5028545 flag = infraspecific
 
+## Primatomorpha
+https://github.com/OpenTreeOfLife/feedback/issues/449
+  * 6520519 added via UI
+  * set parent of 913935 and 987673 to 6520519
+
+## *Ranoidea aurea* -> *Litoria aurea*
+https://github.com/OpenTreeOfLife/feedback/issues/464
+  * sink 7666857 into 
