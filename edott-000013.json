@@ -1763,12 +1763,6 @@
   {
     "action": "delete",
     "taxon": {
-      "ott_id": 5247783
-    }
-  },
-  {
-    "action": "delete",
-    "taxon": {
       "ott_id": 5905500
     }
   },
