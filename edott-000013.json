@@ -220,6 +220,13 @@
   {
     "action": "edit",
     "taxon": {
+      "ott_id": 898631,
+      "flags": ""
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
       "ott_id": 773490,
       "flags": "incertae_sedis"
     }
