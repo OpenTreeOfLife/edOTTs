@@ -144,3 +144,9 @@ https://github.com/OpenTreeOfLife/feedback/issues/447
 https://github.com/OpenTreeOfLife/feedback/issues/457
   * set name and parent of 1020541
   * delete 1020540
+
+## Fix *Tribolodon*
+https://github.com/OpenTreeOfLife/feedback/issues/458
+  * rename species to *Pseudaspius* as indicated by FishBASE
+  * remove erroneous extinct flags
+  * sink Tribolodon into 535863
