@@ -131,3 +131,8 @@ https://github.com/OpenTreeOfLife/feedback/issues/413
 ## remove typo name Tropidonotus matrix
 https://github.com/OpenTreeOfLife/feedback/issues/414
   * 4946051 jr syn of 1010557
+
+## clean up Crotalidae
+https://github.com/OpenTreeOfLife/feedback/issues/415
+  * sink misspelled *Sisturus sp* into *Sistrurus*
+  * delete Sisturus and Crotalidae
