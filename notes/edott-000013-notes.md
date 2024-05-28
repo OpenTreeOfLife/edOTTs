@@ -165,3 +165,23 @@ https://github.com/OpenTreeOfLife/feedback/issues/464
 ## Archaeoprepona not extinct
 https://github.com/OpenTreeOfLife/feedback/issues/510
   * reset flags for the genus and descendants
+
+
+## fix Personidae issues
+  * delete 7901951 as deleted from GBIF 
+  * 7901949 -> Sassia armata parent 12784
+  * 7901950 -> "Xymene obliteratus" parent 514837
+  * set 6293463, 7901940, 7901941, 7901939, 6293481, 7901942, 6293468, 6293479, 6293466, 6293465, 6293470, 6293482, 6293462, 2890098, 6293472, 6293467, 2890079, 2890095, 6293469, 6293480, 6293477, 6293464, 6293475, 6293484, 6293478, 6293474, 6293476, 6293483, 6293471 parent to 762723
+  * sink 6293461 into 762723
+  * sink 6293491 into 5720102
+  * sink 6293490 into 2919149
+  * sink 6293497 into 2890106
+         6293499 into 2890108
+         6293498 into 2890107
+         6293496 into 5720103
+  * set parent of 7901947, 7901946, 7901945, 7901948 to 2890103
+  * sink 6293495 into 2890103
+  * set 7901944 name "Eocymatium pyraster" parent 2918280
+  * set 2918280 parent 7948290 flags ""
+  * 7948290 name "Cymatidae" flags ""
+  * set 6293494 to parent 762723 name *Distorsio simillima*

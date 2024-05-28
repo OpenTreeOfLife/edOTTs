@@ -190,6 +190,16 @@
     }
   },
   {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520519,
+      "sourceinfo": "additions-6520519-6520519:6520519",
+      "name": "Primatomorpha",
+      "parent": 392222,
+      "rank": "no rank"
+    }
+  },
+  {
     "action": "edit",
     "taxon": {
       "ott_id": 7649476,
@@ -1372,35 +1382,376 @@
     "action": "edit",
     "taxon": {
       "ott_id": 455685,
-      "rank": "extinct"
+      "flags": "extinct"
     }
   },
   {
     "action": "edit",
     "taxon": {
       "ott_id": 455687,
-      "rank": "extinct"
+      "flags": "extinct"
     }
   },
   {
     "action": "edit",
     "taxon": {
       "ott_id": 455684,
-      "rank": "extinct_inherited"
+      "flags": "extinct_inherited"
     }
   },
   {
     "action": "edit",
     "taxon": {
       "ott_id": 455686,
-      "rank": "extinct_inherited"
+      "flags": "extinct_inherited"
     }
   },
   {
     "action": "edit",
     "taxon": {
       "ott_id": 543770,
-      "rank": "extinct_inherited"
+      "flags": "extinct_inherited"
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 7901951
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7901949,
+      "name": "Sassia armata",
+      "parent": 12784
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7901950,
+      "name": "Xymene obliteratus",
+      "parent": 514837
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293463,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7901940,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7901941,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7901939,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293481,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7901942,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293468,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293479,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293466,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293465,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293470,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293482,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293462,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 2890098,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293472,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293467,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 2890079,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 2890095,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293469,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293480,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293477,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293464,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293475,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293484,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293478,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293474,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293476,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293483,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293471,
+      "parent": 762723
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 6293461,
+      "ott_id_of_sr_syn": 762723
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 6293491,
+      "ott_id_of_sr_syn": 5720102
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 6293490,
+      "ott_id_of_sr_syn": 2919149
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 6293497,
+      "ott_id_of_sr_syn": 2890106
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 6293499,
+      "ott_id_of_sr_syn": 2890108
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 6293498,
+      "ott_id_of_sr_syn": 2890107
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 6293496,
+      "ott_id_of_sr_syn": 5720103
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7901947,
+      "parent": 2890103
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7901946,
+      "parent": 2890103
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7901945,
+      "parent": 2890103
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7901948,
+      "parent": 2890103
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 6293495,
+      "ott_id_of_sr_syn": 2890103
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7901944,
+      "name": "Eocymatium pyraster",
+      "parent": 2918280
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 2918280,
+      "flags": "",
+      "parent": 7948290
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7948290,
+      "flags": "",
+      "name": "Cymatidae"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6293494,
+      "parent": 762723,
+      "name": "Distorsio simillima"
     }
   }
 ]
