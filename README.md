@@ -38,5 +38,5 @@ More automatic updates:
 
   2. `semanticize_amendments.py amendments-1 5f4764d6f0f4b2908465100fae724640b6306153 > edott-000012.json` while amendments-1 was at [2faeefa1549ad7c231533528d1ec1dc1420060bd](https://github.com/OpenTreeOfLife/amendments-1/commit/2faeefa1549ad7c231533528d1ec1dc1420060bd)
 
- 3. edott-000013 is still in progress, but started via running  `semanticize_amendments.py amendments-1 2faeefa1549ad7c231533528d1ec1dc1420060bd > edott-000013.json` while amendments-1 was at [f7e74b8aa309922840b54dbc1c938aad4cb5d7a1am](https://github.com/OpenTreeOfLife/amendments-1/commit/f7e74b8aa309922840b54dbc1c938aad4cb5d7a1am)
+ 3. edott-000013 is still in progress, but started via running  `semanticize_amendments.py amendments-1 2faeefa1549ad7c231533528d1ec1dc1420060bd > edott-000013.json` while amendments-1 was at [2092a384c68976ca8a39228fbc61ed2f3fa5fb7d](https://github.com/OpenTreeOfLife/amendments-1/commit/2092a384c68976ca8a39228fbc61ed2f3fa5fb7d)
 

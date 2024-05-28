@@ -150,6 +150,46 @@
     }
   },
   {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520515,
+      "sourceinfo": "additions-6520515-6520515:6520515",
+      "name": "Caenophidia",
+      "parent": 5835348,
+      "rank": "no rank"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520516,
+      "sourceinfo": "additions-6520516-6520516:6520516",
+      "name": "Orchamoplatus",
+      "parent": 290572,
+      "rank": "genus"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520517,
+      "sourceinfo": "additions-6520517-6520517:6520517",
+      "name": "Melomys caurinus",
+      "parent": 260131,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520518,
+      "sourceinfo": "additions-6520518-6520518:6520518",
+      "name": "Rattus pococki",
+      "parent": 271578,
+      "rank": "species"
+    }
+  },
+  {
     "action": "edit",
     "taxon": {
       "ott_id": 7649476,
@@ -623,7 +663,7 @@
     "action": "edit",
     "taxon": {
       "ott_id": 5835347,
-      "flags": "sibling_higher:incertae_sedis"
+      "flags": "sibling_higher,incertae_sedis"
     }
   },
   {
@@ -707,12 +747,6 @@
     "action": "delete",
     "taxon": {
       "ott_id": 3638542
-    }
-  },
-  {
-    "action": "delete",
-    "taxon": {
-      "ott_id": 696441
     }
   },
   {
@@ -839,25 +873,6 @@
     "taxon": {
       "ott_id_to_be_jr_syn": 4125918,
       "ott_id_of_sr_syn": 755875
-    }
-  },
-  {
-    "action": "sink",
-    "taxon": {
-      "ott_id_to_be_jr_syn": 4125919,
-      "ott_id_of_sr_syn": 755882
-    }
-  },
-  {
-    "action": "delete",
-    "taxon": {
-      "ott_id": 4125917
-    }
-  },
-  {
-    "action": "delete",
-    "taxon": {
-      "ott_id": 4125916
     }
   },
   {
@@ -1063,6 +1078,18 @@
     "taxon": {
       "ott_id_to_be_jr_syn": 4125919,
       "ott_id_of_sr_syn": 535863
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 4125917
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 4125916
     }
   },
   {

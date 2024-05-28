@@ -117,7 +117,7 @@ https://github.com/OpenTreeOfLife/feedback/issues/356
 
 ## delete Makaira coftata
 https://github.com/OpenTreeOfLife/feedback/issues/361
-  * delete 3638542 and 696441
+  * delete 3638542
 
 ## remove author name
   * edit name of 419478
@@ -150,3 +150,6 @@ https://github.com/OpenTreeOfLife/feedback/issues/458
   * rename species to *Pseudaspius* as indicated by FishBASE
   * remove erroneous extinct flags
   * sink Tribolodon into 535863
+  * 276756 and 513668 no flag
+  * 5839523, 5839524, 513666,  1000499, 4238260 and  5028545 flag = infraspecific
+
