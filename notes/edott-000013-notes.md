@@ -195,3 +195,27 @@ https://github.com/OpenTreeOfLife/feedback/issues/535
 https://github.com/OpenTreeOfLife/feedback/issues/526
   * set 5008296 parent to 1053028
   * sink 7677593 parent to 1053028
+
+## Ficus
+https://github.com/OpenTreeOfLife/feedback/issues/530
+  * sink 870799 into 7494610 sources   ncbi:1030158,worms:527727,gbif:9726071, irmng:11258800
+  * delete 6355851, 7946361, 7946370
+  * change 6355847 name to "Ficus carbasea"
+  * 7946360 to "Ficus greenwoodi"
+  * sink 7946364 into 658505
+  * 2889750 to "Ficus cingulata"
+  * 2889743 to  "Ficus concinna"
+  * 2889746 to "Priscoficus nexilis" parent 2918833
+  * 2889749 to "Ficus carolina"
+  * 6355857 to "Ficus paraensis"
+  * 2889738 to "Ficus distans"
+  * delete 7946378
+  * sink 7946372 into 734185
+         7946362 into 6108152
+         7946377 into 1059644
+         7946376 into 43041
+         7946368 into 440512
+         7946374 into 921547
+         7946363 into 272174
+  * delete 7946388, 7946383, 7946379, 7946387, 7946382
+  * 7946385 name to "Volema junghuhni" parent to 265004

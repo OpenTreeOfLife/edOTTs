@@ -2046,5 +2046,204 @@
       "ott_id_to_be_jr_syn": 3631101,
       "ott_id_of_sr_syn": 7062423
     }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 870799,
+      "ott_id_of_sr_syn": 7494610
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7494610,
+      "sourceinfo": "ncbi:1030158,worms:527727,gbif:9726071, irmng:11258800"
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 6355851
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 7946361
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 7946370
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6355847,
+      "name": "Ficus carbasea"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7946360,
+      "name": "Ficus greenwoodi"
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7946364,
+      "ott_id_of_sr_syn": 658505
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 2889750,
+      "name": "Ficus cingulata"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 2889743,
+      "name": "Ficus concinna"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 2889746,
+      "name": "Priscoficus nexilis",
+      "parent": 2918833
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 2889749,
+      "name": "Ficus carolina"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6355857,
+      "name": "Ficus paraensis"
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 2889738,
+      "name": "Ficus distans"
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 7946378
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7946372,
+      "ott_id_of_sr_syn": 734185
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7946362,
+      "ott_id_of_sr_syn": 6108152
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7946377,
+      "ott_id_of_sr_syn": 1059644
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7946376,
+      "ott_id_of_sr_syn": 43041
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7946368,
+      "ott_id_of_sr_syn": 440512
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7946374,
+      "ott_id_of_sr_syn": 921547
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7946363,
+      "ott_id_of_sr_syn": 272174
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 7946388
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 7946383
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 7946379
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 7946387
+    }
+  },
+  {
+    "action": "delete",
+    "taxon": {
+      "ott_id": 7946382
+    }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7946385,
+      "name": "Volema junghuhni",
+      "parent": 265004
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520520,
+      "sourceinfo": "additions-6520520-6520520:6520520",
+      "name": "Pseudohydromys musseri",
+      "parent": 449867,
+      "rank": "species"
+    }
   }
 ]
