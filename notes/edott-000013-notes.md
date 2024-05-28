@@ -127,3 +127,7 @@ https://github.com/OpenTreeOfLife/feedback/issues/413
 
   * added Orchamoplatus as 6520516 via UI
   * setting parents of 6294408, 7902467, 3450189, 3450204, 3450180, 6294405, 6294410, 6294409, 6294411, 6294407, 6294403, 6294413, 6294404, 6294406 and 6294412 to 6520516
+
+## remove typo name Tropidonotus matrix
+https://github.com/OpenTreeOfLife/feedback/issues/414
+  * 4946051 jr syn of 1010557
