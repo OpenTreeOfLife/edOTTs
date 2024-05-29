@@ -2330,5 +2330,243 @@
     "taxon": {
       "ott_id": 7973657
     }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842671,
+      "ott_id_of_sr_syn": 7640796
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842642,
+      "ott_id_of_sr_syn": 7640552
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842673,
+      "ott_id_of_sr_syn": 3938466
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842657,
+      "ott_id_of_sr_syn": 3938086
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842668,
+      "ott_id_of_sr_syn": 7640770
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842653,
+      "ott_id_of_sr_syn": 7640647
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842655,
+      "ott_id_of_sr_syn": 7640650
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842651,
+      "ott_id_of_sr_syn": 3938106
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842663,
+      "ott_id_of_sr_syn": 3938084
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842656,
+      "ott_id_of_sr_syn": 3937229
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842658,
+      "ott_id_of_sr_syn": 3936719
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842672,
+      "ott_id_of_sr_syn": 1001992
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842644,
+      "ott_id_of_sr_syn": 7640565
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842652,
+      "ott_id_of_sr_syn": 7640642
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842664,
+      "ott_id_of_sr_syn": 7640750
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842654,
+      "ott_id_of_sr_syn": 3937137
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842666,
+      "ott_id_of_sr_syn": 7640752
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842649,
+      "ott_id_of_sr_syn": 7640624
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842645,
+      "ott_id_of_sr_syn": 7640567
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842660,
+      "ott_id_of_sr_syn": 7640685
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842665,
+      "ott_id_of_sr_syn": 7640751
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842670,
+      "ott_id_of_sr_syn": 7640793
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842662,
+      "ott_id_of_sr_syn": 7640712
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842647,
+      "ott_id_of_sr_syn": 7640615
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842646,
+      "ott_id_of_sr_syn": 7640581
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842659,
+      "ott_id_of_sr_syn": 7640684
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842643,
+      "ott_id_of_sr_syn": 7640554
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842669,
+      "ott_id_of_sr_syn": 7640790
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842674,
+      "ott_id_of_sr_syn": 7640811
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842667,
+      "ott_id_of_sr_syn": 7640755
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7842650,
+      "ott_id_of_sr_syn": 7640635
+    }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7640771,
+      "ott_id_of_sr_syn": 4387125
+    }
+  }, 
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7842648,
+      "parent": 1001998
+    }
+  }, 
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7842661,
+      "parent": 1001998
+    }
   }
 ]

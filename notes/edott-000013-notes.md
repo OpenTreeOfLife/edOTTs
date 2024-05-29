@@ -219,3 +219,9 @@ https://github.com/OpenTreeOfLife/feedback/issues/530
          7946363 into 272174
   * delete 7946388, 7946383, 7946379, 7946387, 7946382
   * 7946385 name to "Volema junghuhni" parent to 265004
+
+## Fix Eugenia
+https://github.com/OpenTreeOfLife/feedback/issues/534
+  * move all but fugax and silvatica into plant genus
+  * silvatica plant version was bogus.
+  
