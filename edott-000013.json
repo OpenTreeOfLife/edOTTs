@@ -2612,5 +2612,12 @@
       "ott_id_to_be_jr_syn": 7781272,
       "ott_id_of_sr_syn": 195680
     }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7656112,
+      "ott_id_of_sr_syn": 556857
+    }
   }
 ]
