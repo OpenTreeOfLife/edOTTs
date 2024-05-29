@@ -2568,5 +2568,12 @@
       "ott_id": 7842661,
       "parent": 1001998
     }
+  },
+  {
+    "action": "sink",
+    "taxon": {
+      "ott_id_to_be_jr_syn": 7655648,
+      "ott_id_of_sr_syn": 1069421
+    }
   }
 ]
