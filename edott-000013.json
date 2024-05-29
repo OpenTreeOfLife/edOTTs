@@ -2682,7 +2682,14 @@
     "action": "edit",
     "taxon": {
       "ott_id": 5324301,
-      "flags": "extinct,incertae_sedis" 
+      "flags": "extinct,incertae_sedis"
+    }
+  }, 
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 7853681,
+      "parent": 67327
     }
   }
 ]
