@@ -2670,5 +2670,19 @@
       "ott_id": 4947919,
       "parent": 664350
     }
+  }, 
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 4947919,
+      "parent": 664350
+    }
+  }, 
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 5324301,
+      "flags": "extinct,incertae_sedis" 
+    }
   }
 ]
