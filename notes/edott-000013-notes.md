@@ -229,3 +229,7 @@ https://github.com/OpenTreeOfLife/feedback/issues/534
 
 ## make Undina mappable
 
+## fix Mytilina and Dreissena
+  * 937972 sources = ncbi:360680,gbif:1001393,irmng:1296819 
+  * 201849
+    * sources = ncbi:45951,worms:181565,gbif:2287071,irmng:1208952,irmng:1249971
