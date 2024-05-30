@@ -3086,5 +3086,12 @@
       "ott_id": 7660763,
       "parent": 1082614
     }
+  },
+  {
+    "action": "edit",
+    "taxon": {
+      "ott_id": 6520265,
+      "sourceinfo": "ncbi:460200,addition:6520265,gbif:2491505"
+    }
   }
 ]
