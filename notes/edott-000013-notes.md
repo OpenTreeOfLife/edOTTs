@@ -233,3 +233,9 @@ https://github.com/OpenTreeOfLife/feedback/issues/534
   * 937972 sources = ncbi:360680,gbif:1001393,irmng:1296819 
   * 201849
     * sources = ncbi:45951,worms:181565,gbif:2287071,irmng:1208952,irmng:1249971
+    * parent 201848
+  * 2941923, 937971, 937969 parent 937972
+
+## Lice in birds
+  * 7661605 parent to 1082614
+  * 7661607 parent to 1082614
