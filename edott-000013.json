@@ -2619,7 +2619,17 @@
       "ott_id_to_be_jr_syn": 7656112,
       "ott_id_of_sr_syn": 556857
     }
-  }, 
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520521,
+      "sourceinfo": "additions-6520521-6520521:6520521",
+      "name": "Phoeniconaias",
+      "parent": 472436,
+      "rank": "species"
+    }
+  },
   {
     "action": "edit",
     "taxon": {
@@ -2636,7 +2646,7 @@
       "parent": 6520521,
       "name": "Phoeniconaias proeses",
       "rank": "species",
-      "flags": "exinct"
+      "flags": "extinct"
     }
   }, 
   {

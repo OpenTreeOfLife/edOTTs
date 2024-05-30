@@ -224,4 +224,8 @@ https://github.com/OpenTreeOfLife/feedback/issues/530
 https://github.com/OpenTreeOfLife/feedback/issues/534
   * move all but fugax and silvatica into plant genus
   * silvatica plant version was bogus.
-  
+
+## fix flamingos and ibis
+
+## make Undina mappable
+
