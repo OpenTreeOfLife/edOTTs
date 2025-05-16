@@ -1,0 +1,3832 @@
+[
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520522,
+      "sourceinfo": "additions-6520522-6520532:6520522",
+      "name": "Protanilla boltoni",
+      "parent": 68217,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520523,
+      "sourceinfo": "additions-6520522-6520532:6520523",
+      "name": "Amoimyrmex striatus",
+      "parent": 344333,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520524,
+      "sourceinfo": "additions-6520522-6520532:6520524",
+      "name": "Lasius americanus",
+      "parent": 418137,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520525,
+      "sourceinfo": "additions-6520522-6520532:6520525",
+      "name": "Dinomyrmex gigas",
+      "parent": 418138,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520526,
+      "sourceinfo": "additions-6520522-6520532:6520526",
+      "name": "Colobopsis obliqua",
+      "parent": 418138,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520527,
+      "sourceinfo": "additions-6520522-6520532:6520527",
+      "name": "Paratrachymyrmex cornetzi",
+      "parent": 344333,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520528,
+      "sourceinfo": "additions-6520522-6520532:6520528",
+      "name": "Xerolitor explicatus",
+      "parent": 344333,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520529,
+      "sourceinfo": "additions-6520522-6520532:6520529",
+      "name": "Mycetomoellerius zeteki",
+      "parent": 344333,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520530,
+      "sourceinfo": "additions-6520522-6520532:6520530",
+      "name": "Forelius maranhaoensis",
+      "parent": 256681,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520531,
+      "sourceinfo": "additions-6520522-6520532:6520531",
+      "name": "Syscia madrensis",
+      "parent": 161685,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520532,
+      "sourceinfo": "additions-6520522-6520532:6520532",
+      "name": "Leptanilloides nomadus",
+      "parent": 161685,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520533,
+      "sourceinfo": "additions-6520533-6520543:6520533",
+      "name": "Protanilla boltoni",
+      "parent": 68217,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520534,
+      "sourceinfo": "additions-6520533-6520543:6520534",
+      "name": "Amoimyrmex striatus",
+      "parent": 344333,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520535,
+      "sourceinfo": "additions-6520533-6520543:6520535",
+      "name": "Lasius americanus",
+      "parent": 418137,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520536,
+      "sourceinfo": "additions-6520533-6520543:6520536",
+      "name": "Dinomyrmex gigas",
+      "parent": 418138,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520537,
+      "sourceinfo": "additions-6520533-6520543:6520537",
+      "name": "Colobopsis obliqua",
+      "parent": 418138,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520538,
+      "sourceinfo": "additions-6520533-6520543:6520538",
+      "name": "Paratrachymyrmex cornetzi",
+      "parent": 344333,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520539,
+      "sourceinfo": "additions-6520533-6520543:6520539",
+      "name": "Xerolitor explicatus",
+      "parent": 344333,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520540,
+      "sourceinfo": "additions-6520533-6520543:6520540",
+      "name": "Mycetomoellerius zeteki",
+      "parent": 344333,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520541,
+      "sourceinfo": "additions-6520533-6520543:6520541",
+      "name": "Forelius maranhaoensis",
+      "parent": 256681,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520542,
+      "sourceinfo": "additions-6520533-6520543:6520542",
+      "name": "Syscia madrensis",
+      "parent": 161685,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520543,
+      "sourceinfo": "additions-6520533-6520543:6520543",
+      "name": "Leptanilloides nomadus",
+      "parent": 161685,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520544,
+      "sourceinfo": "additions-6520544-6520544:6520544",
+      "name": "Brachyponera sennaarensis",
+      "parent": 327971,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520545,
+      "sourceinfo": "additions-6520545-6520547:6520545",
+      "name": "Myzomela dammermani",
+      "parent": 1092345,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520546,
+      "sourceinfo": "additions-6520545-6520547:6520546",
+      "name": "Microptilotis imitatrix",
+      "parent": 1092345,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520547,
+      "sourceinfo": "additions-6520545-6520547:6520547",
+      "name": "Philemon yorki",
+      "parent": 1092345,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520548,
+      "sourceinfo": "additions-6520548-6520548:6520548",
+      "name": "Faxonius neglectus",
+      "parent": 45677,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520549,
+      "sourceinfo": "additions-6520549-6520551:6520549",
+      "name": "Hoplometopus macrodontus",
+      "parent": 2974326,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520550,
+      "sourceinfo": "additions-6520549-6520551:6520550",
+      "name": "Phyllamphion elegans",
+      "parent": 653845,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520551,
+      "sourceinfo": "additions-6520549-6520551:6520551",
+      "name": "Neopolycheles enthrix",
+      "parent": 1057024,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520552,
+      "sourceinfo": "additions-6520552-6520552:6520552",
+      "name": "Neocallichirus mericeae",
+      "parent": 791663,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520553,
+      "sourceinfo": "additions-6520553-6520553:6520553",
+      "name": "Faxonius palmeri longimanus",
+      "parent": 7116905,
+      "rank": "subspecies"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520554,
+      "sourceinfo": "additions-6520554-6520558:6520554",
+      "name": "Microphis ocellatus",
+      "parent": 495936,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520555,
+      "sourceinfo": "additions-6520554-6520558:6520555",
+      "name": "Solenostomus paegnius",
+      "parent": 804809,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520556,
+      "sourceinfo": "additions-6520554-6520558:6520556",
+      "name": "Doryrhamphus californiensis",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520557,
+      "sourceinfo": "additions-6520554-6520558:6520557",
+      "name": "Doryrhamphus paulus",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520558,
+      "sourceinfo": "additions-6520554-6520558:6520558",
+      "name": "Cylix tupareomanaia",
+      "parent": 145131,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520559,
+      "sourceinfo": "additions-6520559-6520563:6520559",
+      "name": "Microphis ocellatus",
+      "parent": 495936,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520560,
+      "sourceinfo": "additions-6520559-6520563:6520560",
+      "name": "Solenostomus paegnius",
+      "parent": 804809,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520561,
+      "sourceinfo": "additions-6520559-6520563:6520561",
+      "name": "Doryrhamphus californiensis",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520562,
+      "sourceinfo": "additions-6520559-6520563:6520562",
+      "name": "Doryrhamphus paulus",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520563,
+      "sourceinfo": "additions-6520559-6520563:6520563",
+      "name": "Cylix tupareomanaia",
+      "parent": 145131,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520564,
+      "sourceinfo": "additions-6520564-6520568:6520564",
+      "name": "Microphis ocellatus",
+      "parent": 495936,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520565,
+      "sourceinfo": "additions-6520564-6520568:6520565",
+      "name": "Solenostomus paegnius",
+      "parent": 804809,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520566,
+      "sourceinfo": "additions-6520564-6520568:6520566",
+      "name": "Doryrhamphus californiensis",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520567,
+      "sourceinfo": "additions-6520564-6520568:6520567",
+      "name": "Doryrhamphus paulus",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520568,
+      "sourceinfo": "additions-6520564-6520568:6520568",
+      "name": "Cylix tupareomanaia",
+      "parent": 145131,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520569,
+      "sourceinfo": "additions-6520569-6520573:6520569",
+      "name": "Microphis ocellatus",
+      "parent": 495936,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520570,
+      "sourceinfo": "additions-6520569-6520573:6520570",
+      "name": "Solenostomus paegnius",
+      "parent": 804809,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520571,
+      "sourceinfo": "additions-6520569-6520573:6520571",
+      "name": "Doryrhamphus californiensis",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520572,
+      "sourceinfo": "additions-6520569-6520573:6520572",
+      "name": "Doryrhamphus paulus",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520573,
+      "sourceinfo": "additions-6520569-6520573:6520573",
+      "name": "Cylix tupareomanaia",
+      "parent": 145131,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520574,
+      "sourceinfo": "additions-6520574-6520578:6520574",
+      "name": "Microphis ocellatus",
+      "parent": 495936,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520575,
+      "sourceinfo": "additions-6520574-6520578:6520575",
+      "name": "Solenostomus paegnius",
+      "parent": 804809,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520576,
+      "sourceinfo": "additions-6520574-6520578:6520576",
+      "name": "Doryrhamphus californiensis",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520577,
+      "sourceinfo": "additions-6520574-6520578:6520577",
+      "name": "Doryrhamphus paulus",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520578,
+      "sourceinfo": "additions-6520574-6520578:6520578",
+      "name": "Cylix tupareomanaia",
+      "parent": 145131,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520579,
+      "sourceinfo": "additions-6520579-6520583:6520579",
+      "name": "Microphis ocellatus",
+      "parent": 495936,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520580,
+      "sourceinfo": "additions-6520579-6520583:6520580",
+      "name": "Solenostomus paegnius",
+      "parent": 804809,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520581,
+      "sourceinfo": "additions-6520579-6520583:6520581",
+      "name": "Doryrhamphus californiensis",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520582,
+      "sourceinfo": "additions-6520579-6520583:6520582",
+      "name": "Doryrhamphus paulus",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520583,
+      "sourceinfo": "additions-6520579-6520583:6520583",
+      "name": "Cylix tupareomanaia",
+      "parent": 145131,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520584,
+      "sourceinfo": "additions-6520584-6520588:6520584",
+      "name": "Microphis ocellatus",
+      "parent": 495936,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520585,
+      "sourceinfo": "additions-6520584-6520588:6520585",
+      "name": "Solenostomus paegnius",
+      "parent": 804809,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520586,
+      "sourceinfo": "additions-6520584-6520588:6520586",
+      "name": "Doryrhamphus californiensis",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520587,
+      "sourceinfo": "additions-6520584-6520588:6520587",
+      "name": "Doryrhamphus paulus",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520588,
+      "sourceinfo": "additions-6520584-6520588:6520588",
+      "name": "Cylix tupareomanaia",
+      "parent": 145131,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520589,
+      "sourceinfo": "additions-6520589-6520593:6520589",
+      "name": "Microphis ocellatus",
+      "parent": 495936,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520590,
+      "sourceinfo": "additions-6520589-6520593:6520590",
+      "name": "Solenostomus paegnius",
+      "parent": 804809,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520591,
+      "sourceinfo": "additions-6520589-6520593:6520591",
+      "name": "Doryrhamphus californiensis",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520592,
+      "sourceinfo": "additions-6520589-6520593:6520592",
+      "name": "Doryrhamphus paulus",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520593,
+      "sourceinfo": "additions-6520589-6520593:6520593",
+      "name": "Cylix tupareomanaia",
+      "parent": 145131,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520594,
+      "sourceinfo": "additions-6520594-6520598:6520594",
+      "name": "Microphis ocellatus",
+      "parent": 495936,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520595,
+      "sourceinfo": "additions-6520594-6520598:6520595",
+      "name": "Solenostomus paegnius",
+      "parent": 804809,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520596,
+      "sourceinfo": "additions-6520594-6520598:6520596",
+      "name": "Doryrhamphus californiensis",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520597,
+      "sourceinfo": "additions-6520594-6520598:6520597",
+      "name": "Doryrhamphus paulus",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520598,
+      "sourceinfo": "additions-6520594-6520598:6520598",
+      "name": "Cylix tupareomanaia",
+      "parent": 145131,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520599,
+      "sourceinfo": "additions-6520599-6520603:6520599",
+      "name": "Microphis ocellatus",
+      "parent": 495936,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520600,
+      "sourceinfo": "additions-6520599-6520603:6520600",
+      "name": "Solenostomus paegnius",
+      "parent": 804809,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520601,
+      "sourceinfo": "additions-6520599-6520603:6520601",
+      "name": "Doryrhamphus californiensis",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520602,
+      "sourceinfo": "additions-6520599-6520603:6520602",
+      "name": "Doryrhamphus paulus",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520603,
+      "sourceinfo": "additions-6520599-6520603:6520603",
+      "name": "Cylix tupareomanaia",
+      "parent": 145131,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520604,
+      "sourceinfo": "additions-6520604-6520607:6520604",
+      "name": "Microphis ocellatus",
+      "parent": 495936,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520605,
+      "sourceinfo": "additions-6520604-6520607:6520605",
+      "name": "Solenostomus paegnius",
+      "parent": 804809,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520606,
+      "sourceinfo": "additions-6520604-6520607:6520606",
+      "name": "Doryrhamphus californiensis",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520607,
+      "sourceinfo": "additions-6520604-6520607:6520607",
+      "name": "Doryrhamphus paulus",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520608,
+      "sourceinfo": "additions-6520608-6520611:6520608",
+      "name": "Microphis ocellatus",
+      "parent": 495936,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520609,
+      "sourceinfo": "additions-6520608-6520611:6520609",
+      "name": "Solenostomus paegnius",
+      "parent": 804809,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520610,
+      "sourceinfo": "additions-6520608-6520611:6520610",
+      "name": "Doryrhamphus californiensis",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520611,
+      "sourceinfo": "additions-6520608-6520611:6520611",
+      "name": "Doryrhamphus paulus",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520612,
+      "sourceinfo": "additions-6520612-6520615:6520612",
+      "name": "Microphis ocellatus",
+      "parent": 495936,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520613,
+      "sourceinfo": "additions-6520612-6520615:6520613",
+      "name": "Solenostomus paegnius",
+      "parent": 804809,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520614,
+      "sourceinfo": "additions-6520612-6520615:6520614",
+      "name": "Doryrhamphus californiensis",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520615,
+      "sourceinfo": "additions-6520612-6520615:6520615",
+      "name": "Doryrhamphus paulus",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520616,
+      "sourceinfo": "additions-6520616-6520619:6520616",
+      "name": "Microphis ocellatus",
+      "parent": 495936,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520617,
+      "sourceinfo": "additions-6520616-6520619:6520617",
+      "name": "Solenostomus paegnius",
+      "parent": 804809,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520618,
+      "sourceinfo": "additions-6520616-6520619:6520618",
+      "name": "Doryrhamphus californiensis",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520619,
+      "sourceinfo": "additions-6520616-6520619:6520619",
+      "name": "Doryrhamphus paulus",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520620,
+      "sourceinfo": "additions-6520620-6520620:6520620",
+      "name": "Cylix tupareomanaia",
+      "parent": 145131,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520621,
+      "sourceinfo": "additions-6520621-6520622:6520621",
+      "name": "Doryrhamphus californiensis",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520622,
+      "sourceinfo": "additions-6520621-6520622:6520622",
+      "name": "Doryrhamphus paulus",
+      "parent": 445221,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520623,
+      "sourceinfo": "additions-6520623-6520623:6520623",
+      "name": "Trichobranchus bibranchiatus",
+      "parent": 911557,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520624,
+      "sourceinfo": "additions-6520624-6520624:6520624",
+      "name": "Trichobranchus tribranchiata",
+      "parent": 911557,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520625,
+      "sourceinfo": "additions-6520625-6520634:6520625",
+      "name": "Cacomantis blandus",
+      "parent": 792625,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520626,
+      "sourceinfo": "additions-6520625-6520634:6520626",
+      "name": "Cacomantis addendus",
+      "parent": 792625,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520627,
+      "sourceinfo": "additions-6520625-6520634:6520627",
+      "name": "Cacomantis virescens",
+      "parent": 792625,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520628,
+      "sourceinfo": "additions-6520625-6520634:6520628",
+      "name": "Phaenicophaeus oeneicaudus",
+      "parent": 1041421,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520629,
+      "sourceinfo": "additions-6520625-6520634:6520629",
+      "name": "Centropus burchellii",
+      "parent": 1039514,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520630,
+      "sourceinfo": "additions-6520625-6520634:6520630",
+      "name": "Coua olivaceiceps",
+      "parent": 787071,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520631,
+      "sourceinfo": "additions-6520625-6520634:6520631",
+      "name": "Ducula cuprea",
+      "parent": 300042,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520632,
+      "sourceinfo": "additions-6520625-6520634:6520632",
+      "name": "Ducula geelvinkiana",
+      "parent": 300042,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520633,
+      "sourceinfo": "additions-6520625-6520634:6520633",
+      "name": "Ducula oenothorax",
+      "parent": 300042,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520634,
+      "sourceinfo": "additions-6520625-6520634:6520634",
+      "name": "Ptilinopus speciosus",
+      "parent": 28961,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520635,
+      "sourceinfo": "additions-6520635-6520654:6520635",
+      "name": "Streptopelia xanthocycla",
+      "parent": 549522,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520636,
+      "sourceinfo": "additions-6520635-6520654:6520636",
+      "name": "Scleroptila whytei",
+      "parent": 124998,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520637,
+      "sourceinfo": "additions-6520635-6520654:6520637",
+      "name": "Scleroptila elgonensis",
+      "parent": 124998,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520638,
+      "sourceinfo": "additions-6520635-6520654:6520638",
+      "name": "Tropicoperdix graydoni",
+      "parent": 5859858,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520639,
+      "sourceinfo": "additions-6520635-6520654:6520639",
+      "name": "Lophura pyronota",
+      "parent": 624441,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520640,
+      "sourceinfo": "additions-6520635-6520654:6520640",
+      "name": "Guttera edouardi",
+      "parent": 684042,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520641,
+      "sourceinfo": "additions-6520635-6520654:6520641",
+      "name": "Guttera verreauxi",
+      "parent": 684042,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520642,
+      "sourceinfo": "additions-6520635-6520654:6520642",
+      "name": "Fringilla spodiogenys",
+      "parent": 28336,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520643,
+      "sourceinfo": "additions-6520635-6520654:6520643",
+      "name": "Fringilla canariensis",
+      "parent": 28336,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520644,
+      "sourceinfo": "additions-6520635-6520654:6520644",
+      "name": "Fringilla moreletti",
+      "parent": 28336,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520645,
+      "sourceinfo": "additions-6520635-6520654:6520645",
+      "name": "Chlorophonia flavifrons",
+      "parent": 357621,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520646,
+      "sourceinfo": "additions-6520635-6520654:6520646",
+      "name": "Chlorophonia sclateri",
+      "parent": 357621,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520647,
+      "sourceinfo": "additions-6520635-6520654:6520647",
+      "name": "Chlorophonia musica",
+      "parent": 357621,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520648,
+      "sourceinfo": "additions-6520635-6520654:6520648",
+      "name": "Anthus brevirostris",
+      "parent": 28337,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520649,
+      "sourceinfo": "additions-6520635-6520654:6520649",
+      "name": "Euplectes laticauda",
+      "parent": 901167,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520650,
+      "sourceinfo": "additions-6520635-6520654:6520650",
+      "name": "Ploceus holoxanthus",
+      "parent": 370815,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520651,
+      "sourceinfo": "additions-6520635-6520654:6520651",
+      "name": "Ploceus brachypterus",
+      "parent": 370815,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520652,
+      "sourceinfo": "additions-6520635-6520654:6520652",
+      "name": "Anaplectes jubaensis",
+      "parent": 82262,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520653,
+      "sourceinfo": "additions-6520635-6520654:6520653",
+      "name": "Chloropsis moluccensis",
+      "parent": 647191,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520654,
+      "sourceinfo": "additions-6520635-6520654:6520654",
+      "name": "Irena tweeddalii",
+      "parent": 647180,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520655,
+      "sourceinfo": "additions-6520655-6520658:6520655",
+      "name": "Lacunicambarus dalyae",
+      "parent": 79860,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520656,
+      "sourceinfo": "additions-6520655-6520658:6520656",
+      "name": "Lacunicambarus nebrascensis",
+      "parent": 79860,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520657,
+      "sourceinfo": "additions-6520655-6520658:6520657",
+      "name": "Lacunicambarus freundensteini",
+      "parent": 79860,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520658,
+      "sourceinfo": "additions-6520655-6520658:6520658",
+      "name": "Lacunicambarus mobilensis",
+      "parent": 79860,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520659,
+      "sourceinfo": "additions-6520659-6520659:6520659",
+      "name": "Cambarus sheltae",
+      "parent": 876591,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520660,
+      "sourceinfo": "additions-6520660-6520679:6520660",
+      "name": "Cinnyris idenburgi",
+      "parent": 520444,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520661,
+      "sourceinfo": "additions-6520660-6520679:6520661",
+      "name": "Cinnyris teysmanni",
+      "parent": 520444,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520662,
+      "sourceinfo": "additions-6520660-6520679:6520662",
+      "name": "Cinnyris clementiae",
+      "parent": 520444,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520663,
+      "sourceinfo": "additions-6520660-6520679:6520663",
+      "name": "Cinnyris aurora",
+      "parent": 520444,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520664,
+      "sourceinfo": "additions-6520660-6520679:6520664",
+      "name": "Cinnyris frenatus",
+      "parent": 520444,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520665,
+      "sourceinfo": "additions-6520660-6520679:6520665",
+      "name": "Cinnyris infrenatus",
+      "parent": 520444,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520666,
+      "sourceinfo": "additions-6520660-6520679:6520666",
+      "name": "Cinnyris ornatus",
+      "parent": 520444,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520667,
+      "sourceinfo": "additions-6520660-6520679:6520667",
+      "name": "Cinnyris hellmayri",
+      "parent": 520444,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520668,
+      "sourceinfo": "additions-6520660-6520679:6520668",
+      "name": "Cinnyris melanogastrus",
+      "parent": 520444,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520669,
+      "sourceinfo": "additions-6520660-6520679:6520669",
+      "name": "Anthreptes tephrolaemus",
+      "parent": 3366,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520670,
+      "sourceinfo": "additions-6520660-6520679:6520670",
+      "name": "Dicaeum keiense",
+      "parent": 420993,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520671,
+      "sourceinfo": "additions-6520660-6520679:6520671",
+      "name": "Dicaeum wilhelminae",
+      "parent": 420993,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520672,
+      "sourceinfo": "additions-6520660-6520679:6520672",
+      "name": "Dicaeum rhodopygiale",
+      "parent": 420993,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520673,
+      "sourceinfo": "additions-6520660-6520679:6520673",
+      "name": "Dicaeum cambodianum",
+      "parent": 420993,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520674,
+      "sourceinfo": "additions-6520660-6520679:6520674",
+      "name": "Oenanthe frenata",
+      "parent": 945783,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520675,
+      "sourceinfo": "additions-6520660-6520679:6520675",
+      "name": "Oenanthe seebohmi",
+      "parent": 945783,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520676,
+      "sourceinfo": "additions-6520660-6520679:6520676",
+      "name": "Tarsiger formosanus",
+      "parent": 274231,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520677,
+      "sourceinfo": "additions-6520660-6520679:6520677",
+      "name": "Tarsiger albocoeruleus",
+      "parent": 274231,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520678,
+      "sourceinfo": "additions-6520660-6520679:6520678",
+      "name": "Myiomela sumatrana",
+      "parent": 35325,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520679,
+      "sourceinfo": "additions-6520660-6520679:6520679",
+      "name": "Enicurus borneensis",
+      "parent": 53643,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520680,
+      "sourceinfo": "additions-6520680-6520698:6520680",
+      "name": "Larvivora namiyei",
+      "parent": 3599313,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520681,
+      "sourceinfo": "additions-6520680-6520698:6520681",
+      "name": "Larvivora komadori",
+      "parent": 3599313,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520682,
+      "sourceinfo": "additions-6520680-6520698:6520682",
+      "name": "Larvivora tanensis",
+      "parent": 3599313,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520683,
+      "sourceinfo": "additions-6520680-6520698:6520683",
+      "name": "Larvivora akahige",
+      "parent": 3599313,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520684,
+      "sourceinfo": "additions-6520680-6520698:6520684",
+      "name": "Brachypteryx floris",
+      "parent": 878304,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520685,
+      "sourceinfo": "additions-6520680-6520698:6520685",
+      "name": "Brachypteryx saturata",
+      "parent": 878304,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520686,
+      "sourceinfo": "additions-6520680-6520698:6520686",
+      "name": "Brachypteryx erythrogyna",
+      "parent": 878304,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520687,
+      "sourceinfo": "additions-6520680-6520698:6520687",
+      "name": "Cyornis ruficrissa",
+      "parent": 288691,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520688,
+      "sourceinfo": "additions-6520680-6520698:6520688",
+      "name": "Cyornis ocularis",
+      "parent": 288691,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520689,
+      "sourceinfo": "additions-6520680-6520698:6520689",
+      "name": "Cyornis kalaoensis",
+      "parent": 288691,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520690,
+      "sourceinfo": "additions-6520680-6520698:6520690",
+      "name": "Cyornis kadayangensis",
+      "parent": 288691,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520691,
+      "sourceinfo": "additions-6520680-6520698:6520691",
+      "name": "Cyornis camarinensis",
+      "parent": 288691,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520692,
+      "sourceinfo": "additions-6520680-6520698:6520692",
+      "name": "Eumyias stresemanni",
+      "parent": 829682,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520693,
+      "sourceinfo": "additions-6520680-6520698:6520693",
+      "name": "Eumyias oscillans",
+      "parent": 829682,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520694,
+      "sourceinfo": "additions-6520680-6520698:6520694",
+      "name": "Niltava oatesi",
+      "parent": 774534,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520695,
+      "sourceinfo": "additions-6520680-6520698:6520695",
+      "name": "Copsychus omissus",
+      "parent": 373878,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520696,
+      "sourceinfo": "additions-6520680-6520698:6520696",
+      "name": "Copsychus nigricauda",
+      "parent": 373878,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520697,
+      "sourceinfo": "additions-6520680-6520698:6520697",
+      "name": "Copsychus barbouri",
+      "parent": 373878,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520698,
+      "sourceinfo": "additions-6520680-6520698:6520698",
+      "name": "Copsychus leggei",
+      "parent": 373878,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520699,
+      "sourceinfo": "additions-6520699-6520718:6520699",
+      "name": "Turdus ruficeps",
+      "parent": 568571,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520700,
+      "sourceinfo": "additions-6520699-6520718:6520700",
+      "name": "Turdus samoensis",
+      "parent": 568571,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520701,
+      "sourceinfo": "additions-6520699-6520718:6520701",
+      "name": "Turdus xanthopus",
+      "parent": 568571,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520702,
+      "sourceinfo": "additions-6520699-6520718:6520702",
+      "name": "Turdus pritzbueri",
+      "parent": 568571,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520703,
+      "sourceinfo": "additions-6520699-6520718:6520703",
+      "name": "Turdus vanikorensis",
+      "parent": 568571,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520704,
+      "sourceinfo": "additions-6520699-6520718:6520704",
+      "name": "Turdus bougainvillei",
+      "parent": 568571,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520705,
+      "sourceinfo": "additions-6520699-6520718:6520705",
+      "name": "Turdus heinrothi",
+      "parent": 568571,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520706,
+      "sourceinfo": "additions-6520699-6520718:6520706",
+      "name": "Turdus papuensis",
+      "parent": 568571,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520707,
+      "sourceinfo": "additions-6520699-6520718:6520707",
+      "name": "Turdus deningeri",
+      "parent": 568571,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520708,
+      "sourceinfo": "additions-6520699-6520718:6520708",
+      "name": "Turdus schlegelii",
+      "parent": 568571,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520709,
+      "sourceinfo": "additions-6520699-6520718:6520709",
+      "name": "Turdus litsitsirupa",
+      "parent": 568571,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520710,
+      "sourceinfo": "additions-6520699-6520718:6520710",
+      "name": "Turdus simensis",
+      "parent": 568571,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520711,
+      "sourceinfo": "additions-6520699-6520718:6520711",
+      "name": "Ramphocinclus sanctaeluciae",
+      "parent": 1000579,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520712,
+      "sourceinfo": "additions-6520699-6520718:6520712",
+      "name": "Acridotheres leucocephalus",
+      "parent": 595029,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520713,
+      "sourceinfo": "additions-6520699-6520718:6520713",
+      "name": "Gracupica jalla",
+      "parent": 6153987,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520714,
+      "sourceinfo": "additions-6520699-6520718:6520714",
+      "name": "Gracupica floweri",
+      "parent": 6153987,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520715,
+      "sourceinfo": "additions-6520699-6520718:6520715",
+      "name": "Gracula venerata",
+      "parent": 80417,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520716,
+      "sourceinfo": "additions-6520699-6520718:6520716",
+      "name": "Cyphorhinus dichrous",
+      "parent": 403168,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520717,
+      "sourceinfo": "additions-6520699-6520718:6520717",
+      "name": "Tangara brasiliensis",
+      "parent": 817640,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520718,
+      "sourceinfo": "additions-6520699-6520718:6520718",
+      "name": "Pheugopedius schulenbergi",
+      "parent": 313315,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520719,
+      "sourceinfo": "additions-6520719-6520739:6520719",
+      "name": "Troglodytes grenadensis",
+      "parent": 965451,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520720,
+      "sourceinfo": "additions-6520719-6520739:6520720",
+      "name": "Troglodytes musicus",
+      "parent": 965451,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520721,
+      "sourceinfo": "additions-6520719-6520739:6520721",
+      "name": "Troglodytes mesoleucus",
+      "parent": 965451,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520722,
+      "sourceinfo": "additions-6520719-6520739:6520722",
+      "name": "Troglodytes martinicensis",
+      "parent": 965451,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520723,
+      "sourceinfo": "additions-6520719-6520739:6520723",
+      "name": "Troglodytes beani",
+      "parent": 965451,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520724,
+      "sourceinfo": "additions-6520719-6520739:6520724",
+      "name": "Illadopsis distans",
+      "parent": 631170,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520725,
+      "sourceinfo": "additions-6520719-6520739:6520725",
+      "name": "Pellorneum capistratoides",
+      "parent": 353518,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520726,
+      "sourceinfo": "additions-6520719-6520739:6520726",
+      "name": "Pellorneum nigrocapitatum",
+      "parent": 353518,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520727,
+      "sourceinfo": "additions-6520719-6520739:6520727",
+      "name": "Erythrogenys imberbis",
+      "parent": 5852575,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520728,
+      "sourceinfo": "additions-6520719-6520739:6520728",
+      "name": "Pomatorhinus bornensis",
+      "parent": 353526,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520729,
+      "sourceinfo": "additions-6520719-6520739:6520729",
+      "name": "Pomatorhinus phayrei",
+      "parent": 353526,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520730,
+      "sourceinfo": "additions-6520719-6520739:6520730",
+      "name": "Cyanoderma bicolor",
+      "parent": 5340814,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520731,
+      "sourceinfo": "additions-6520719-6520739:6520731",
+      "name": "Cyanoderma erythropterum",
+      "parent": 5340814,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520732,
+      "sourceinfo": "additions-6520719-6520739:6520732",
+      "name": "Mixornis prillwitzi",
+      "parent": 4947690,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520733,
+      "sourceinfo": "additions-6520719-6520739:6520733",
+      "name": "Zosterops oblitus",
+      "parent": 131988,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520734,
+      "sourceinfo": "additions-6520719-6520739:6520734",
+      "name": "Zosterops hamlini",
+      "parent": 131988,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520735,
+      "sourceinfo": "additions-6520719-6520739:6520735",
+      "name": "Zosterops paruhbesar",
+      "parent": 131988,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520736,
+      "sourceinfo": "additions-6520719-6520739:6520736",
+      "name": "Zosterops dehaani",
+      "parent": 131988,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520737,
+      "sourceinfo": "additions-6520719-6520739:6520737",
+      "name": "Zosterops meratusensis",
+      "parent": 131988,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520738,
+      "sourceinfo": "additions-6520719-6520739:6520738",
+      "name": "Zosterops kasaicus",
+      "parent": 131988,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520739,
+      "sourceinfo": "additions-6520719-6520739:6520739",
+      "name": "Zosterops kaffensis",
+      "parent": 131988,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520740,
+      "sourceinfo": "additions-6520740-6520751:6520740",
+      "name": "Sterrhoptilus affinis",
+      "parent": 3599508,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520741,
+      "sourceinfo": "additions-6520740-6520751:6520741",
+      "name": "Suthora brunnea",
+      "parent": 3599587,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520742,
+      "sourceinfo": "additions-6520740-6520751:6520742",
+      "name": "Suthora ricketti",
+      "parent": 3599587,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520743,
+      "sourceinfo": "additions-6520740-6520751:6520743",
+      "name": "Phylloscopus nesophilus",
+      "parent": 96289,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520744,
+      "sourceinfo": "additions-6520740-6520751:6520744",
+      "name": "Pycnonotus leucops",
+      "parent": 92678,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520745,
+      "sourceinfo": "additions-6520740-6520751:6520745",
+      "name": "Pycnonotus davisoni",
+      "parent": 92678,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520746,
+      "sourceinfo": "additions-6520740-6520751:6520746",
+      "name": "Hypsipetes catarmanensis",
+      "parent": 131999,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520747,
+      "sourceinfo": "additions-6520740-6520751:6520747",
+      "name": "Hypsipetes longirostris",
+      "parent": 131999,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520748,
+      "sourceinfo": "additions-6520740-6520751:6520748",
+      "name": "Hypsipetes harterti",
+      "parent": 131999,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520749,
+      "sourceinfo": "additions-6520740-6520751:6520749",
+      "name": "Ixos sumatranus",
+      "parent": 1010884,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520750,
+      "sourceinfo": "additions-6520740-6520751:6520750",
+      "name": "Phyllastrephus viridiceps",
+      "parent": 62259,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520751,
+      "sourceinfo": "additions-6520740-6520751:6520751",
+      "name": "Atimastillas flavigula",
+      "parent": 5339178,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520752,
+      "sourceinfo": "additions-6520752-6520752:6520752",
+      "name": "Heliothraupis oneilli",
+      "parent": 445866,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520753,
+      "sourceinfo": "additions-6520753-6520771:6520753",
+      "name": "Cecropis rufula",
+      "parent": 744790,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520754,
+      "sourceinfo": "additions-6520753-6520771:6520754",
+      "name": "Delichon lagopodum",
+      "parent": 922719,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520755,
+      "sourceinfo": "additions-6520753-6520771:6520755",
+      "name": "Hirundo javanica",
+      "parent": 897677,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520756,
+      "sourceinfo": "additions-6520753-6520771:6520756",
+      "name": "Riparia cowani",
+      "parent": 136034,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520757,
+      "sourceinfo": "additions-6520753-6520771:6520757",
+      "name": "Cincloramphus turipavae",
+      "parent": 865551,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520758,
+      "sourceinfo": "additions-6520753-6520771:6520758",
+      "name": "Cincloramphus whitneyi",
+      "parent": 865551,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520759,
+      "sourceinfo": "additions-6520753-6520771:6520759",
+      "name": "Cisticola bailunduensis",
+      "parent": 24061,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520760,
+      "sourceinfo": "additions-6520753-6520771:6520760",
+      "name": "Prinia khasiana",
+      "parent": 275658,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520761,
+      "sourceinfo": "additions-6520753-6520771:6520761",
+      "name": "Apalis stronachi",
+      "parent": 759567,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520762,
+      "sourceinfo": "additions-6520753-6520771:6520762",
+      "name": "Corypha kidepoensis",
+      "parent": 781910,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520763,
+      "sourceinfo": "additions-6520753-6520771:6520763",
+      "name": "Corypha sharpii",
+      "parent": 781910,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520764,
+      "sourceinfo": "additions-6520753-6520771:6520764",
+      "name": "Corypha athi",
+      "parent": 781910,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520765,
+      "sourceinfo": "additions-6520753-6520771:6520765",
+      "name": "Corypha nigrescens",
+      "parent": 781910,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520766,
+      "sourceinfo": "additions-6520753-6520771:6520766",
+      "name": "Corypha kabalii",
+      "parent": 781910,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520767,
+      "sourceinfo": "additions-6520753-6520771:6520767",
+      "name": "Corypha kurrae",
+      "parent": 781910,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520768,
+      "sourceinfo": "additions-6520753-6520771:6520768",
+      "name": "Heteromyias armiti",
+      "parent": 3599145,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520769,
+      "sourceinfo": "additions-6520753-6520771:6520769",
+      "name": "Petroica polymorpha",
+      "parent": 918819,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520770,
+      "sourceinfo": "additions-6520753-6520771:6520770",
+      "name": "Melanocharis piperata",
+      "parent": 176451,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520771,
+      "sourceinfo": "additions-6520753-6520771:6520771",
+      "name": "Platysmurus aterrimus",
+      "parent": 320093,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520772,
+      "sourceinfo": "additions-6520772-6520792:6520772",
+      "name": "Symposiachrus melanopterus",
+      "parent": 4947769,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520773,
+      "sourceinfo": "additions-6520772-6520792:6520773",
+      "name": "Terpsiphone floris",
+      "parent": 537964,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520774,
+      "sourceinfo": "additions-6520772-6520792:6520774",
+      "name": "Dicrurus striatus",
+      "parent": 72474,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520775,
+      "sourceinfo": "additions-6520772-6520792:6520775",
+      "name": "Rhipidura layardi",
+      "parent": 21006,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520776,
+      "sourceinfo": "additions-6520772-6520792:6520776",
+      "name": "Rhipidura ocularis",
+      "parent": 21006,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520777,
+      "sourceinfo": "additions-6520772-6520792:6520777",
+      "name": "Rhipidura rufofronta",
+      "parent": 21006,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520778,
+      "sourceinfo": "additions-6520772-6520792:6520778",
+      "name": "Rhipidura melanolaema",
+      "parent": 21006,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520779,
+      "sourceinfo": "additions-6520772-6520792:6520779",
+      "name": "Rhipidura louisiadensis",
+      "parent": 21006,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520780,
+      "sourceinfo": "additions-6520772-6520792:6520780",
+      "name": "Rhipidura semicollaris",
+      "parent": 21006,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520781,
+      "sourceinfo": "additions-6520772-6520792:6520781",
+      "name": "Rhipidura coultasi",
+      "parent": 21006,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520782,
+      "sourceinfo": "additions-6520772-6520792:6520782",
+      "name": "Oriolus consanguineus",
+      "parent": 631323,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520783,
+      "sourceinfo": "additions-6520772-6520792:6520783",
+      "name": "Oriolus finschi",
+      "parent": 631323,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520784,
+      "sourceinfo": "additions-6520772-6520792:6520784",
+      "name": "Melopyrrha taylori",
+      "parent": 838941,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520785,
+      "sourceinfo": "additions-6520772-6520792:6520785",
+      "name": "Pachycephala vanikorensis",
+      "parent": 896892,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520786,
+      "sourceinfo": "additions-6520772-6520792:6520786",
+      "name": "Basileuterus punctipectus",
+      "parent": 758213,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520787,
+      "sourceinfo": "additions-6520772-6520792:6520787",
+      "name": "Paramythia olivacea",
+      "parent": 1066407,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520788,
+      "sourceinfo": "additions-6520772-6520792:6520788",
+      "name": "Falcunculus whitei",
+      "parent": 965224,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520789,
+      "sourceinfo": "additions-6520772-6520792:6520789",
+      "name": "Falcunculus leucogaster",
+      "parent": 965224,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520790,
+      "sourceinfo": "additions-6520772-6520792:6520790",
+      "name": "Edolisoma erythropygium",
+      "parent": 4131785,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520791,
+      "sourceinfo": "additions-6520772-6520792:6520791",
+      "name": "Edolisoma nesiotis",
+      "parent": 4131785,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520792,
+      "sourceinfo": "additions-6520772-6520792:6520792",
+      "name": "Edolisoma tricolor",
+      "parent": 4131785,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520793,
+      "sourceinfo": "additions-6520793-6520812:6520793",
+      "name": "Lalage leucoptera",
+      "parent": 489929,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520794,
+      "sourceinfo": "additions-6520793-6520812:6520794",
+      "name": "Coracina panayensis",
+      "parent": 808266,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520795,
+      "sourceinfo": "additions-6520793-6520812:6520795",
+      "name": "Coracina mindorensis",
+      "parent": 808266,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520796,
+      "sourceinfo": "additions-6520793-6520812:6520796",
+      "name": "Coracina larutensis",
+      "parent": 808266,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520797,
+      "sourceinfo": "additions-6520793-6520812:6520797",
+      "name": "Gerygone citrina",
+      "parent": 918680,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520798,
+      "sourceinfo": "additions-6520793-6520812:6520798",
+      "name": "Myzomela longirostris",
+      "parent": 598352,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520799,
+      "sourceinfo": "additions-6520793-6520812:6520799",
+      "name": "Myzomela batjanensis",
+      "parent": 598352,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520800,
+      "sourceinfo": "additions-6520793-6520812:6520800",
+      "name": "Myzomela erythrina",
+      "parent": 598352,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520801,
+      "sourceinfo": "additions-6520793-6520812:6520801",
+      "name": "Contopus bogotensis",
+      "parent": 1095263,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520802,
+      "sourceinfo": "additions-6520793-6520812:6520802",
+      "name": "Contopus punensis",
+      "parent": 1095263,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520803,
+      "sourceinfo": "additions-6520793-6520812:6520803",
+      "name": "Myiophobus rufescens",
+      "parent": 636760,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520804,
+      "sourceinfo": "additions-6520793-6520812:6520804",
+      "name": "Myiophobus crypterythrus",
+      "parent": 636760,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520805,
+      "sourceinfo": "additions-6520793-6520812:6520805",
+      "name": "Stigmatura bahiae",
+      "parent": 755592,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520806,
+      "sourceinfo": "additions-6520793-6520812:6520806",
+      "name": "Acrochordopus zeledoni",
+      "parent": 4131566,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520807,
+      "sourceinfo": "additions-6520793-6520812:6520807",
+      "name": "Myiopagis cinerea",
+      "parent": 610933,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520808,
+      "sourceinfo": "additions-6520793-6520812:6520808",
+      "name": "Myiopagis parambae",
+      "parent": 610933,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520809,
+      "sourceinfo": "additions-6520793-6520812:6520809",
+      "name": "Nesotriccus tumbezanus",
+      "parent": 3599266,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520810,
+      "sourceinfo": "additions-6520793-6520812:6520810",
+      "name": "Nesotriccus maranonicus",
+      "parent": 3599266,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520811,
+      "sourceinfo": "additions-6520793-6520812:6520811",
+      "name": "Tolmomyias viridiceps",
+      "parent": 753793,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520812,
+      "sourceinfo": "additions-6520793-6520812:6520812",
+      "name": "Rhynchocyclus aequinoctialis",
+      "parent": 230698,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520813,
+      "sourceinfo": "additions-6520813-6520834:6520813",
+      "name": "Mionectes galbinus",
+      "parent": 683046,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520814,
+      "sourceinfo": "additions-6520813-6520834:6520814",
+      "name": "Onychorhynchus swainsoni",
+      "parent": 179645,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520815,
+      "sourceinfo": "additions-6520813-6520834:6520815",
+      "name": "Pachyramphus salvini",
+      "parent": 931722,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520816,
+      "sourceinfo": "additions-6520813-6520834:6520816",
+      "name": "Laniisoma buckleyi",
+      "parent": 306232,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520817,
+      "sourceinfo": "additions-6520813-6520834:6520817",
+      "name": "Lepidothrix velutina",
+      "parent": 49229,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520818,
+      "sourceinfo": "additions-6520813-6520834:6520818",
+      "name": "Cryptopipo litae",
+      "parent": 5223432,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520819,
+      "sourceinfo": "additions-6520813-6520834:6520819",
+      "name": "Synallaxis simoni",
+      "parent": 860401,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520820,
+      "sourceinfo": "additions-6520813-6520834:6520820",
+      "name": "Phacellodomus inornatus",
+      "parent": 759507,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520821,
+      "sourceinfo": "additions-6520813-6520834:6520821",
+      "name": "Automolus cervinigularis",
+      "parent": 759408,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520822,
+      "sourceinfo": "additions-6520813-6520834:6520822",
+      "name": "Furnarius longirostris",
+      "parent": 390840,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520823,
+      "sourceinfo": "additions-6520813-6520834:6520823",
+      "name": "Furnarius cinnamomeus",
+      "parent": 390840,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520824,
+      "sourceinfo": "additions-6520813-6520834:6520824",
+      "name": "Xenops genibarbis",
+      "parent": 705967,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520825,
+      "sourceinfo": "additions-6520813-6520834:6520825",
+      "name": "Campylorhamphus multostriatus",
+      "parent": 12257,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520826,
+      "sourceinfo": "additions-6520813-6520834:6520826",
+      "name": "Campylorhamphus probatus",
+      "parent": 12257,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520827,
+      "sourceinfo": "additions-6520813-6520834:6520827",
+      "name": "Deconychura pallida",
+      "parent": 1078302,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520828,
+      "sourceinfo": "additions-6520813-6520834:6520828",
+      "name": "Deconychura longicauda",
+      "parent": 1078302,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520829,
+      "sourceinfo": "additions-6520813-6520834:6520829",
+      "name": "Grallaria atuensis",
+      "parent": 1041027,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520830,
+      "sourceinfo": "additions-6520813-6520834:6520830",
+      "name": "Grallaria alticola",
+      "parent": 1041027,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520831,
+      "sourceinfo": "additions-6520813-6520834:6520831",
+      "name": "Sturnella lilianae",
+      "parent": 489145,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520832,
+      "sourceinfo": "additions-6520813-6520834:6520832",
+      "name": "Pitta rosenbergii",
+      "parent": 44875,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520833,
+      "sourceinfo": "additions-6520813-6520834:6520833",
+      "name": "Pitta forsteni",
+      "parent": 44875,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520834,
+      "sourceinfo": "additions-6520813-6520834:6520834",
+      "name": "Pitta abbotti",
+      "parent": 44875,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520835,
+      "sourceinfo": "additions-6520835-6520854:6520835",
+      "name": "Erythropitta novaehibernicae",
+      "parent": 3598670,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520836,
+      "sourceinfo": "additions-6520835-6520854:6520836",
+      "name": "Erythropitta celebensis",
+      "parent": 3598670,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520837,
+      "sourceinfo": "additions-6520835-6520854:6520837",
+      "name": "Serilophus rubropygius",
+      "parent": 768998,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520838,
+      "sourceinfo": "additions-6520835-6520854:6520838",
+      "name": "Psittacara frontatus",
+      "parent": 4131198,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520839,
+      "sourceinfo": "additions-6520835-6520854:6520839",
+      "name": "Loriculus bonapartei",
+      "parent": 697454,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520840,
+      "sourceinfo": "additions-6520835-6520854:6520840",
+      "name": "Trichoglossus rosenbergii",
+      "parent": 225736,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520841,
+      "sourceinfo": "additions-6520835-6520854:6520841",
+      "name": "Nannopsittacus nigrifrons",
+      "parent": 667518,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520842,
+      "sourceinfo": "additions-6520835-6520854:6520842",
+      "name": "Nannopsittacus melanogenia",
+      "parent": 667518,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520843,
+      "sourceinfo": "additions-6520835-6520854:6520843",
+      "name": "Psittinus abbotti",
+      "parent": 7114,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520844,
+      "sourceinfo": "additions-6520835-6520854:6520844",
+      "name": "Eclectus polychloros",
+      "parent": 375779,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520845,
+      "sourceinfo": "additions-6520835-6520854:6520845",
+      "name": "Eclectus cornelia",
+      "parent": 375779,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520846,
+      "sourceinfo": "additions-6520835-6520854:6520846",
+      "name": "Cacatua citrinocristata",
+      "parent": 619340,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520847,
+      "sourceinfo": "additions-6520835-6520854:6520847",
+      "name": "Colaptes mexicanoides",
+      "parent": 1020136,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520848,
+      "sourceinfo": "additions-6520835-6520854:6520848",
+      "name": "Campethera taeniolaema",
+      "parent": 755115,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520849,
+      "sourceinfo": "additions-6520835-6520854:6520849",
+      "name": "Meiglyptes grammithorax",
+      "parent": 149821,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520850,
+      "sourceinfo": "additions-6520835-6520854:6520850",
+      "name": "Chrysocolaptes socialis",
+      "parent": 724185,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520851,
+      "sourceinfo": "additions-6520835-6520854:6520851",
+      "name": "Dryobates pernyii",
+      "parent": 3600266,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520852,
+      "sourceinfo": "additions-6520835-6520854:6520852",
+      "name": "Pogoniulus uropygialis",
+      "parent": 291640,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520853,
+      "sourceinfo": "additions-6520835-6520854:6520853",
+      "name": "Trachylaemus goffinii",
+      "parent": 4130725,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520854,
+      "sourceinfo": "additions-6520835-6520854:6520854",
+      "name": "Psilopogon cyanotis",
+      "parent": 291642,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520855,
+      "sourceinfo": "additions-6520855-6520895:6520855",
+      "name": "Arremon nigriceps",
+      "parent": 600910,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520856,
+      "sourceinfo": "additions-6520855-6520895:6520856",
+      "name": "Ceyx sangirensis",
+      "parent": 1039516,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520857,
+      "sourceinfo": "additions-6520855-6520895:6520857",
+      "name": "Merops cyanophrys",
+      "parent": 989088,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520858,
+      "sourceinfo": "additions-6520855-6520895:6520858",
+      "name": "Merops viridissimus",
+      "parent": 989088,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520859,
+      "sourceinfo": "additions-6520855-6520895:6520859",
+      "name": "Merops lafresnayii",
+      "parent": 989088,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520860,
+      "sourceinfo": "additions-6520855-6520895:6520860",
+      "name": "Trogon chrysochloros",
+      "parent": 1065611,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520861,
+      "sourceinfo": "additions-6520855-6520895:6520861",
+      "name": "Trogon cupreicauda",
+      "parent": 1065611,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520862,
+      "sourceinfo": "additions-6520855-6520895:6520862",
+      "name": "Ninox leucopsis",
+      "parent": 767822,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520863,
+      "sourceinfo": "additions-6520855-6520895:6520863",
+      "name": "Athene roseoaxillaris",
+      "parent": 98071,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520864,
+      "sourceinfo": "additions-6520855-6520895:6520864",
+      "name": "Athene malaitae",
+      "parent": 98071,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520865,
+      "sourceinfo": "additions-6520855-6520895:6520865",
+      "name": "Athene granti",
+      "parent": 98071,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520866,
+      "sourceinfo": "additions-6520855-6520895:6520866",
+      "name": "Ketupa poensis",
+      "parent": 445329,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520867,
+      "sourceinfo": "additions-6520855-6520895:6520867",
+      "name": "Otus bikegila",
+      "parent": 1086553,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520868,
+      "sourceinfo": "additions-6520855-6520895:6520868",
+      "name": "Otus mendeni",
+      "parent": 1086553,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520869,
+      "sourceinfo": "additions-6520855-6520895:6520869",
+      "name": "Emberiza personata",
+      "parent": 711854,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520870,
+      "sourceinfo": "additions-6520855-6520895:6520870",
+      "name": "Otus tempestatis",
+      "parent": 1086553,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520871,
+      "sourceinfo": "additions-6520855-6520895:6520871",
+      "name": "Astur atricapillus",
+      "parent": 3596280,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520872,
+      "sourceinfo": "additions-6520855-6520895:6520872",
+      "name": "Ardea plumifera",
+      "parent": 860130,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520873,
+      "sourceinfo": "additions-6520855-6520895:6520873",
+      "name": "Ardea brachyrhyncha",
+      "parent": 860130,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520874,
+      "sourceinfo": "additions-6520855-6520895:6520874",
+      "name": "Nycticorax olsoni",
+      "parent": 313128,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520875,
+      "sourceinfo": "additions-6520855-6520895:6520875",
+      "name": "Sula brewsteri",
+      "parent": 160486,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520876,
+      "sourceinfo": "additions-6520855-6520895:6520876",
+      "name": "Ciconia microscelis",
+      "parent": 363012,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520877,
+      "sourceinfo": "additions-6520855-6520895:6520877",
+      "name": "Fregetta lineata",
+      "parent": 904494,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520878,
+      "sourceinfo": "additions-6520855-6520895:6520878",
+      "name": "Gelochelidon macrotarsa",
+      "parent": 1021959,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520879,
+      "sourceinfo": "additions-6520855-6520895:6520879",
+      "name": "Chrysocorythus mindanensis",
+      "parent": 3599734,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520880,
+      "sourceinfo": "additions-6520855-6520895:6520880",
+      "name": "Turnix novaecaledoniae",
+      "parent": 365489,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520881,
+      "sourceinfo": "additions-6520855-6520895:6520881",
+      "name": "Sporophila iberaensis",
+      "parent": 370800,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520882,
+      "sourceinfo": "additions-6520855-6520895:6520882",
+      "name": "Crithagra striatipectus",
+      "parent": 4131496,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520883,
+      "sourceinfo": "additions-6520855-6520895:6520883",
+      "name": "Anarhynchus atrifrons",
+      "parent": 703811,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520884,
+      "sourceinfo": "additions-6520855-6520895:6520884",
+      "name": "Anarhynchus mongolus",
+      "parent": 703811,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520885,
+      "sourceinfo": "additions-6520855-6520895:6520885",
+      "name": "Saucerottia cupreicauda",
+      "parent": 4130945,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520886,
+      "sourceinfo": "additions-6520855-6520895:6520886",
+      "name": "Saucerottia viridigaster",
+      "parent": 4130945,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520887,
+      "sourceinfo": "additions-6520855-6520895:6520887",
+      "name": "Cynanthus lawrencei",
+      "parent": 606421,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520888,
+      "sourceinfo": "additions-6520855-6520895:6520888",
+      "name": "Ocreatus addae",
+      "parent": 141986,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520889,
+      "sourceinfo": "additions-6520855-6520895:6520889",
+      "name": "Ocreatus peruanus",
+      "parent": 141986,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520890,
+      "sourceinfo": "additions-6520855-6520895:6520890",
+      "name": "Coeligena conradii",
+      "parent": 463442,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520891,
+      "sourceinfo": "additions-6520855-6520895:6520891",
+      "name": "Heliangelus clarisse",
+      "parent": 91921,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520892,
+      "sourceinfo": "additions-6520855-6520895:6520892",
+      "name": "Anthracothorax aurulentus",
+      "parent": 13852,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520893,
+      "sourceinfo": "additions-6520855-6520895:6520893",
+      "name": "Caprimulgus griseatus",
+      "parent": 275134,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520894,
+      "sourceinfo": "additions-6520855-6520895:6520894",
+      "name": "Caprimulgus ritae",
+      "parent": 275134,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520895,
+      "sourceinfo": "additions-6520855-6520895:6520895",
+      "name": "Antrostomus ekmani",
+      "parent": 4130548,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520896,
+      "sourceinfo": "additions-6520896-6520904:6520896",
+      "name": "Horizocerus granti",
+      "parent": 489457,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520897,
+      "sourceinfo": "additions-6520896-6520904:6520897",
+      "name": "Horizocerus hartlaubi",
+      "parent": 489457,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520898,
+      "sourceinfo": "additions-6520896-6520904:6520898",
+      "name": "Horizocerus albocristatus",
+      "parent": 489457,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520899,
+      "sourceinfo": "additions-6520896-6520904:6520899",
+      "name": "Horizocerus cassini",
+      "parent": 489457,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520900,
+      "sourceinfo": "additions-6520896-6520904:6520900",
+      "name": "Lophoceros fasciatus",
+      "parent": 489457,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520901,
+      "sourceinfo": "additions-6520896-6520904:6520901",
+      "name": "Lophoceros semifasciatus",
+      "parent": 489457,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520902,
+      "sourceinfo": "additions-6520896-6520904:6520902",
+      "name": "Chionomesa fimbriata",
+      "parent": 810751,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520903,
+      "sourceinfo": "additions-6520896-6520904:6520903",
+      "name": "Pampa curvipennis",
+      "parent": 810751,
+      "rank": "species"
+    }
+  },
+  {
+    "action": "add",
+    "taxon": {
+      "ott_id": 6520904,
+      "sourceinfo": "additions-6520896-6520904:6520904",
+      "name": "Riccordia bracei",
+      "parent": 810751,
+      "rank": "species"
+    }
+  }
+]
