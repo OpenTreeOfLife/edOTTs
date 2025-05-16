@@ -38,5 +38,6 @@ More automatic updates:
 
   2. `semanticize_amendments.py amendments-1 5f4764d6f0f4b2908465100fae724640b6306153 > edott-000012.json` while amendments-1 was at [2faeefa1549ad7c231533528d1ec1dc1420060bd](https://github.com/OpenTreeOfLife/amendments-1/commit/2faeefa1549ad7c231533528d1ec1dc1420060bd)
 
- 3. edott-000013 is still in progress, but started via running  `semanticize_amendments.py amendments-1 2faeefa1549ad7c231533528d1ec1dc1420060bd > edott-000013.json` while amendments-1 was at [09800651d3bef9f335fe663951cdc9d857ffa084](https://github.com/OpenTreeOfLife/amendments-1/commit/09800651d3bef9f335fe663951cdc9d857ffa084) see [notes/edott-000013-notes.md](https://github.com/OpenTreeOfLife/edOTTs/blob/main/notes/edott-000013-notes.md) for some notes.
+ 3. edott-000013.json was created by running `semanticize_amendments.py amendments-1 2faeefa1549ad7c231533528d1ec1dc1420060bd > edott-000013.json` while amendments-1 was at [e8958d2e2c3a4edbcdf5c4c42c394a5a87902531](https://github.com/OpenTreeOfLife/amendments-1/commit/e8958d2e2c3a4edbcdf5c4c42c394a5a87902531) see [notes/edott-000013-notes.md](https://github.com/OpenTreeOfLife/edOTTs/blob/main/notes/edott-000013-notes.md) for some notes.
 
+4. edott-000014.json was created by had to accompany `edott-000013.json` by flagging a set of extinct taxa
