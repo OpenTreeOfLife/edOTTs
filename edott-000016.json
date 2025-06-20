@@ -322,16 +322,6 @@
   {
     "action": "add",
     "taxon": {
-      "name": "Penaeus (Farfantepenaeus) duorarum",
-      "ott_id": 6521015,
-      "parent": 5845,
-      "rank": "species",
-      "sourceinfo": "additions-6521014-6521018:6521015"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "name": "Lysiosquilla maculata",
       "ott_id": 6521016,
       "parent": 311363,
@@ -347,56 +337,6 @@
       "parent": 852540,
       "rank": "genus",
       "sourceinfo": "additions-6521014-6521018:6521017"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "name": "Penaeus (Farfantepenaeus) duorarum",
-      "ott_id": 6521020,
-      "parent": 5845,
-      "rank": "species",
-      "sourceinfo": "additions-6521019-6521023:6521020"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "name": "Penaeus (Farfantepenaeus) duorarum",
-      "ott_id": 6521025,
-      "parent": 5845,
-      "rank": "species",
-      "sourceinfo": "additions-6521024-6521028:6521025"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "name": "Penaeus (Farfantepenaeus) duorarum",
-      "ott_id": 6521030,
-      "parent": 5845,
-      "rank": "species",
-      "sourceinfo": "additions-6521029-6521033:6521030"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "name": "Penaeus (Farfantepenaeus) duorarum",
-      "ott_id": 6521035,
-      "parent": 5845,
-      "rank": "species",
-      "sourceinfo": "additions-6521034-6521038:6521035"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "name": "Penaeus (Farfantepenaeus) duorarum",
-      "ott_id": 6521040,
-      "parent": 5845,
-      "rank": "species",
-      "sourceinfo": "additions-6521039-6521043:6521040"
     }
   }
 ]
