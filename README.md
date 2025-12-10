@@ -44,6 +44,6 @@ More automatic updates:
 
   * `edott-000015.json` was create by running `semanticize_amendments.py amendments-1 e8958d2e2c3a4edbcdf5c4c42c394a5a87902531 > ~/ot2023/edOTTs/edott-000015.json` while amendments-1 was at [c3904d165b5b0dc0bdb8ec5657a8ee4dfddffd94](https://github.com/OpenTreeOfLife/amendments-1/commit/c3904d165b5b0dc0bdb8ec5657a8ee4dfddffd94) and then deleting duplicate amendment effects.
 
-  * `edott-000016.json` was create by running `semanticize_amendments.py amendments-1 c3904d165b5b0dc0bdb8ec5657a8ee4dfddffd94 > ~/ot2023/edOTTs/edott-000016.json` while amendments-1 was at [39d8554d6e4f8bdd6a1de7a42aa2f8c6ba1d6779](https://github.com/OpenTreeOfLife/amendments-1/commit/39d8554d6e4f8bdd6a1de7a42aa2f8c6ba1d6779).
+  * `edott-000016.json` was create by running `semanticize_amendments.py amendments-1 c3904d165b5b0dc0bdb8ec5657a8ee4dfddffd94 > ~/ot2023/edOTTs/edott-000016.json` while amendments-1 was at [39d8554d6e4f8bdd6a1de7a42aa2f8c6ba1d6779](https://github.com/OpenTreeOfLife/amendments-1/commit/39d8554d6e4f8bdd6a1de7a42aa2f8c6ba1d6779).  OTT3.7.3 made with https://github.com/OpenTreeOfLife/edOTTs/commit/a71a7b7a9862d7aafed2fc08caa8b0e8c5a01d5a  of this repo
 
 
