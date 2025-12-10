@@ -352,66 +352,6 @@
   {
     "action": "add",
     "taxon": {
-      "name": "Neocallichirus mericeae",
-      "ott_id": 6521018,
-      "parent": 791663,
-      "rank": "species",
-      "sourceinfo": "additions-6521014-6521018:6521018"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "name": "Penaeus (Farfantepenaeus) duorarum",
-      "ott_id": 6521020,
-      "parent": 5845,
-      "rank": "species",
-      "sourceinfo": "additions-6521019-6521023:6521020"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "name": "Penaeus (Farfantepenaeus) duorarum",
-      "ott_id": 6521025,
-      "parent": 5845,
-      "rank": "species",
-      "sourceinfo": "additions-6521024-6521028:6521025"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "name": "Penaeus (Farfantepenaeus) duorarum",
-      "ott_id": 6521030,
-      "parent": 5845,
-      "rank": "species",
-      "sourceinfo": "additions-6521029-6521033:6521030"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "name": "Penaeus (Farfantepenaeus) duorarum",
-      "ott_id": 6521035,
-      "parent": 5845,
-      "rank": "species",
-      "sourceinfo": "additions-6521034-6521038:6521035"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "name": "Penaeus (Farfantepenaeus) duorarum",
-      "ott_id": 6521040,
-      "parent": 5845,
-      "rank": "species",
-      "sourceinfo": "additions-6521039-6521043:6521040"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "name": "Hoplitis louisae",
       "ott_id": 6521052,
       "parent": 63881,
@@ -477,16 +417,6 @@
       "parent": 6521056,
       "rank": "species",
       "sourceinfo": "additions-6521058-6521058:6521058"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "name": "Neopolycheles enthrix",
-      "ott_id": 6521059,
-      "parent": 6521057,
-      "rank": "species",
-      "sourceinfo": "additions-6521059-6521061:6521059"
     }
   },
   {
@@ -992,16 +922,6 @@
   {
     "action": "add",
     "taxon": {
-      "name": "Hoplometopus macrodontus",
-      "ott_id": 6521110,
-      "parent": 2974326,
-      "rank": "species",
-      "sourceinfo": "additions-6521110-6521114:6521110"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "name": "Geocharax tasmanicus",
       "ott_id": 6521111,
       "parent": 27314,
@@ -1037,16 +957,6 @@
       "parent": 653845,
       "rank": "genus",
       "sourceinfo": "additions-6521110-6521114:6521114"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "name": "Phyllamphion elegans",
-      "ott_id": 6521164,
-      "parent": 6521114,
-      "rank": "species",
-      "sourceinfo": "additions-6521164-6521164:6521164"
     }
   },
   {
@@ -1322,31 +1232,11 @@
   {
     "action": "add",
     "taxon": {
-      "name": "Gygis microrhyncha",
-      "ott_id": 6521238,
-      "parent": 915896,
-      "rank": "species",
-      "sourceinfo": "additions-6521237-6521253:6521238"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
       "name": "Butorides atricapilla",
       "ott_id": 6521239,
       "parent": 922697,
       "rank": "species",
       "sourceinfo": "additions-6521237-6521253:6521239"
-    }
-  },
-  {
-    "action": "add",
-    "taxon": {
-      "name": "Myiopsitta luchsi",
-      "ott_id": 6521240,
-      "parent": 547248,
-      "rank": "species",
-      "sourceinfo": "additions-6521237-6521253:6521240"
     }
   },
   {
